@@ -10,6 +10,7 @@ creator:
 identifier:
 - scheme: URN
   text: uuid:F7B30324-A8E0-4B2A-A83D-9F83E67CC9A6
+date: 1887
 rights: Public Domain
 cover-image: cover.png
 ---

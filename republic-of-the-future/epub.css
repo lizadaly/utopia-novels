@@ -1,9 +1,38 @@
 h1 {
   font-family: "Latin Modern Roman Dunhill", serif;
   font-size: 44px;
-  line-height: 1em;
+  line-height: 1.1em;
   text-align: center;
 }
+h1.subtitle {
+  font-size: 20px;
+}
+div.rights {
+  font-family: "Latin Modern Roman Dunhill", serif;
+  font-size: 14px;
+  margin-top: 3em;
+  text-align: center;
+}
+
+div.rights:before {
+  content: "Rights: ";
+  font-family: "Latin Modern Roman Dunhill", serif;
+}
+
+p.author {
+  text-align: center;
+  font-family: "Latin Modern Roman Dunhill", serif;
+}
+
+
+p.date:before {
+  content: "Publication date: ";
+}
+p.date {
+  text-align: center;
+  font-family: "Latin Modern Roman Dunhill", serif;
+}
+
 h2, h3 {
   font-family: "Latin Modern Roman Dunhill", serif;
   line-height: 1em;
