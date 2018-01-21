@@ -1,0 +1,1549 @@
+---
+title:
+- type: main
+  text: The Republic of the Future
+- type: subtitle
+  text: or, Socialism a Reality
+creator:
+- role: author
+  text: Anna Bowman Dodd
+identifier:
+- scheme: URN
+  text: uuid:F7B30324-A8E0-4B2A-A83D-9F83E67CC9A6
+rights: Public Domain
+cover-image: cover.png
+---
+
+> Letters from a Swedish nobleman living in the 21st
+> century to a friend in Christiania
+
+# I.
+## New York Socialistic City
+### December 1st, 2050 A. D.
+
+Dear Hanniveg,
+
+At last, as you see, my journey is safely
+accomplished, and I am fairly landed in the
+midst of this strange socialistic society. To
+say that I was landed, is to make use of so
+obsolete an expression that it must entirely fail
+to convey to you a true idea of the processes of the journey. Had I written—I was safely
+shot into the country—this would much more
+graphically describe to you the method of my
+arrival.
+
+
+You may remember, perhaps, that before
+starting I found myself in very grave doubt as
+to which route to take—whether to come by
+balloon or by tunnel. As the latter route would
+enable me to enjoy an entirely novel spectacle,
+that of viewing sub-marine scenery, I chose,
+and wisely I now know, to come by the
+Pneumatic Tube Electric Company. The comforts
+and luxuries of this sub-marine route are beyond
+belief. The perfection of the contrivances for
+supplying hot and cold air, for instance, during
+the journey, are such that the passengers are
+enabled to have almost any temperature at
+command. The cars are indeed marked 70 degrees Fahr.,
+80 degrees and 100 degrees. One buys one’s seat according
+to his taste for climate. Many of the travellers,
+I noticed, booked themselves for the bath
+department, remaining the entire journey in the
+Turkish, Russian, vapor or plunge
+departments-as the various baths attached to this
+line surpass a Roman voluptuary’s dream of
+such luxuries. I, however, never having been
+through the great tunnel before, was naturally
+more interested in what was passing so swiftly
+making the journey of three thousand miles
+] just ten hours long. In spite of the swiftness
+of our transit, we were enabled by the aid of
+the instantaneous photographic process, as
+applied to opera-glasses and telescopes, to feel
+that we lost nothing by the rapidity of our
+meteor-like passage. I was totally unprepared
+for the beauties and the novelties which met
+my eye at every turn. The sightseers’ car is
+admirably arranged. Fancy being able to take in
+all the wonders of oceanland through large glass
+portholes in the concave sides of circular cars.
+The tube itself, which is of iron, enormously
+thick, has glass sides, also of huge thickness,
+running parallel with the windows of the car
+so that the view is unobstructed. The
+sensations awakened, therefore, both by the novelty
+of the situation and by the wonders we passed
+in review, combined to make the journey thrillingly exciting. We were swept, for instance,
+past armies of fishes, beautiful to behold in
+such masses, shimmering in their opalescent
+armor as they rose above, or sank out of sight
+into the depths below. The sudden depressions
+and abrupt elevations of the sea-level made the
+scenery full of diversity. There was a great
+abundance of color, with the vivid crimson of
+the coralline plants and the delicate pinks and
+yellows of the many varieties of the sub-marine
+flora. It seemed at times as if we were caught
+in a liquid cloud of amber, or were to be
+enmeshed in a grove of giant sea-weeds.
+
+
+Beyond all else, however, in point of interest,
+was the spectacle of the wholesale cannibalism
+going on among the finny tribes, a cannibalism
+which still exists, in spite of the persistent and
+unwearying exertions of the numerous Societies
+for the Prevention of Cruelty among Cetacea
+and Crustacea. We passed any number of small
+boats darting in and out among the porpoises,
+dolphins and smaller fish, delivering supplies
+(of proper Christian food) and punishing
+offenders. A sub-marine missionary, who chanced
+to sit next to me, told me that of all vertebrate
+or invertebrate animals, the fish is the least
+amenable to reformatory discipline; fishes
+appear to have been born, he went on to say
+without the most rudimentary form of the moral
+instinct, and curiously enough, only flourish in
+proportion as they are allowed to act out
+their original degenerate nature. He also
+confessed privately to me, that after some
+twenty-five years active work among them, the
+results of his labors were most discouraging.
+Since, however, the Buddhistic doctrine of
+metempsychosis has come to be so universally
+accepted, and as each one of these poor
+creatures is in reality a soul in embryo, it behoves
+mankind to do all that lies in its power to
+elevate all tribes and species.
+
+
+As you may well imagine, my dear Hannevig,
+with such spectacles and speculations to enliven
+the journey, I found it all too short. Its
+shortness was, in truth, the only drawback to my
+complete enjoyment. The wonders of the
+journey, I found, were, however, only a fitting
+prelude to the surprises that awaited me on my
+arrival. I leave an account of both these
+surprises and of my first impressions of the great
+city until my next letter, as this one, I find, has
+already grown to the proportions of an ancient
+epistle.
+
+
+I am, my dear Hannevig.
+Your life-long friend and comrade,
+WOLFGANG.
+
+
+# II.
+
+
+Dear Hanniveg,
+
+
+The three days’ time which has elapsed since
+my last letter to you, has been so crowded with
+a confusion of bewildered impressions produced
+by this astonishing city and its still more
+astonishing inhabitants, that I am in doubt whether
+I shall be able to convey to you any clearer
+pictures than those which fill the disordered
+canvas of my own mind. I will, however, strive
+to reproduce my experiences in the order in
+which they came to me, and allow you to draw
+your own conclusions.
+
+
+The first amazing thing that happened to me
+was the way in which I reached my hotel.
+Fancy being blown up on the shore, for the
+pneumatic tube being many hundreds of feet
+below the shore level, we were literally blown
+up on the beach; there we found air-balloon
+omnibuses, into which we and our luggage were
+transported by means of little electrical cars,
+about a thousand feet into the air, affording a
+fine view of the city. Great is not a large
+city of the Socialists-it has the immensity of
+an unending plain, and the flatness of one also.
+In former times, I believe, the original city was
+an island, on either side of which flowed a
+river; but as more and more land became
+necessary new channels for these rivers were
+dug, and the river-beds filled in, so that now,
+far as the eye can reach, there is a limitless
+expanse of rooftops.
+
+
+As seen from an aerial elevation, there was
+nothing to attract the eye from the picturesque
+standpoint-there were few large buildings of
+noticeable size or beauty. The city was chiefly
+remarkable because of its immensity. When
+landed at my hotel I found these first
+impressions confirmed by a nearer view.
+
+
+First let me tell you, however, that after
+entering the vestibule of the hotel, I felt as if
+I had stepped into some dwelling of gnomes or
+sprites. Not a human being presented himself.
+No one appeared to take my luggage, nor was
+a clerk or hall boy visible anywhere. The great
+hall of the hotel was as deserted and silent as
+an empty tomb; at first I could not even
+discover a bell. Presently, however, I saw a huge
+iron hand pointing to an adjacent table. On the
+table lay a big book with a placard on which
+was printed, ”Please write name, country,
+length of stay and number of rooms desired.”
+All of which I did. The book then miraculously
+closed itself and disappeared! The next instant
+a tray made its appearance where the book had
+been, on the tray was a key, and on the key a
+tag with a number and the words, “The
+elevator at your left to third right.” The elevator
+as I stepped into it, stopped as if by magic at
+the third story, when another iron hand shot
+out of the wall, pointing me to the left. Soon
+I found the room assigned me, opened it, and
+entered to discover the apartment in complete
+order, and the faucets in the bath—chamber
+actually turned on!
+
+
+My dear Hannevig, can you believe me when
+I tell you that I have been in this hotel four
+mortal days, have eaten three substantial meals
+a day, have been fairly comfortable, and yet
+have not seen a human creature, from a
+landlord to a servant? The whole establishment
+apparently is run by machinery. There is a
+complicated bell apparatus which you ring for
+every conceivable want or need. Meals are
+served in one’s own room, by a system of
+ingenious sliding shelves, which open and shut,
+and disappear into the wall in the most
+wizardlike manner. Of course the reason of all these
+contrivances is obvious enough. In a society
+where labor of a degrading order is forbidden
+by law, machinery must be used as its
+substitute. It is all well enough, I presume, from the
+laborer’s point of view. But for a traveller,
+bent on a pleasure trip, machinery as a
+substitute for a garrulous landlord, and a score
+of servants, however bad, is found to be a poor
+and somewhat monotonous companion. I
+amuse myself, however, with perpetually
+testing all the bells and the electrical apparatus,
+calling for a hundred things I don’t want, to see
+whether they will come through the ceiling
+or up the floor.
+
+
+Most of my time, however, is spent in the
+streets. My earlier impressions of the city I find
+remain unchanged. It is as flat as your hand and
+as monotonous as a twice-told tale. Never
+was there such monotony or such dullness.
+Each house is precisely like its neighbor. Each
+house has so many rooms, so many windows,
+so many square feet of garden, which latter no
+one cultivates, as flowers and grass entail a
+certain amount of manual labor, which, it
+appears, is thought to be degrading by these
+socialists. Imagine, therefore, miles upon miles
+of a city composed of little two-story houses as
+like one unto another as two brown nuts. There
+are parks and theatres and museums, and
+libraries, the Peoples’ Clubs, and innumerable
+state buildings; but these are all
+architecturally tasteless, as utility has been the only
+feature considered in their construction. Every
+thing here, from the laying out of the city to
+the last detail concerning the affairs of
+commerce or trade is arranged according to the
+socialistic principle—by the people for the
+People. The city itself was rebuilt a hundred
+years ago, in order that the houses and the
+public buildings might be in more fitting
+harmony with the new order and principles of
+Socialism. What the older City of New York
+may have been, it is difficult to determine,
+although it is supposed to have been ugly
+enough. But this modern city is the very
+acme of dreariness. It is the monotony I think,
+which chiefly depresses me. It is not that the
+houses do not seem comfortable, clean and
+orderly, for all these virtues they possess.
+But fancy seeing miles upon miles of little
+two-story houses! The total lack of contrast
+which is the result of the plan on which this
+socialistic city has been built, comes, of course,
+from the principle which has decreed that no
+man can have any finer house or better interior,
+or finer clothes than his neighbor. The
+abolition of poverty, and the raising of all classes
+to a common level of comfort and security, has
+resulted in the most deadening uniformity.
+Take for example, the aspect of the shop
+windows. All shops are run by the government on
+government capital. There is, consequently,
+neither rivalry nor competition. The shop
+keepers, who are in reality only clerks and
+salesmen under government jurisdiction, take
+naturally, no personal or vital interest either
+in the amount of goods sold, or in the way in
+which these latter are placed before the public.
+The shop-windows, therefore, are as uninviting
+as are the goods displayed. Only useful,
+necessary objects and articles are to be seen. The
+eye seeks in vain throughout the length and
+breadth of the city for anything really
+beautiful, for the lovely, or the rare. Objects of art
+and of beauty find, it seems, no market here.
+Occasionally the Government makes a
+purchase of some foreign work of art, or
+seizes on some on some of those
+recently excavated from the ruins of some
+tgth century merchant’s palace. The picture
+or vase is then placed in the museums, where
+the people are supposed to enjoy its
+possession.
+
+
+To connect the word enjoyment with the
+aspect of these serious socialists is almost
+laughable. A more sober collection of people
+I never beheld. They are as solemn as the
+oldest and wisest of owls. They have the
+look of people who have come to the end of
+things and who have failed to find it
+amusing. The entire population appear to be eternally
+in the streets, wandering up and down, with
+their hands in their pockets, on the lookout for
+something that never happens. What
+indeed, is there to happen? Have they
+not come to the consummation of
+everything. of their dreams and their hopes
+and desires? A man can’t have his dream
+and dream it too. Realization has been
+found before now, to be exceedingly dull
+play.
+
+
+As it is, I am free to confess, that the
+dullness and apathy of these ideally-perfect
+socialists weighs on me. My views of their condition
+may change when I come to know them
+better.
+
+It is late and I must close.
+Ever yours, W.
+
+# III.
+
+Curiously enough, my dear fellow, the very
+next day after dispatching my last, I found
+myself involved in a long and most interesting
+conversation with the daughter of one of the
+city residents. I had brought letters of
+introduction to a certain gentleman, and after a
+search of some hours through the eternal
+labyrinth of these unending streets, found the house
+to which I had been directed. The gentleman,
+or rather citizen, as all men are called here, was
+not at home. I was, however, received by his
+daughter, a plain but seemingly agreeable,
+intelligent young woman. The women dress so
+exactly like the men in this country that it is
+somewhat difficult to tell the sexes apart.
+Women, however, usually betray themselves as
+soon as they speak by their voices.
+
+
+This young lady had an unusually pleasant
+voice and manner, and we were soon deep in
+the agreeable intricacies of a lengthy
+conversation. I had any number of questions to
+ask, and she appeared to be most willing to
+answer them.
+
+
+My first question, I remember, was an
+eminently practical one. It was on the subject of
+chimneys and cooking. I had noticed almost
+immediately on my arrival that, throughout
+the entire city, not a chimney was to be seen.
+It was this fact more than any other that gave
+the city the appearance of a plain, and made the
+houses seem curiously deformed. It naturally
+followed that, there being no chimneys, there
+was also no smoke, which therefore made
+this already sufficiently clear atmosphere as
+pure as the air on a mountaintop. All very
+beautiful, I said to myself, but how do the
+people get along without cooking? I, in my
+quality of stranger and foreigner, had made the
+interesting discovery that my own meals were
+prepared to my taste by specially appointed
+State cooks—a law only recently passed to
+facilitate international relations. The latter,
+it appears, had become somewhat strained,
+when travelers had found themselves forced to
+abide by the rules and regulations governing
+the socialists’ diet. But what was this diet?
+This was the mystery which had been puzzling
+me ever since my arrival. So that when I
+found myself face to face with my young lady,
+I promptly implored her to solve my dilemma.
+“Oh,” she replied, “cooking has gone out
+long ago. To do any cooking is considered
+dreadfully old-fashioned.” “Has eating also
+gone out of fashion in this wonderful country?”
+I asked in amazement.
+
+
+She laughed as she replied, “Eating hasn’t,
+but we do it in a more refined way. Instead
+of kitchens we now have conduits, culinary
+conduits.”
+
+
+“Culinary conduits?” I asked, still in a daze
+of wonderment.
+
+
+“Oh, I see you don’t understand,“ she
+answered, “you haven’t been here long enough
+to know how such things are arranged. Let me
+explain. The State scientists now regulate all
+such matters. Once a month our Officer of
+Hygiene comes and examines each member of
+the household. He then prescribes the kind of
+food he thinks you require for the next few
+weeks, whether it shall be more or less
+phosphates, or cereals, or carnivorous preparations.
+He leaves a paper with you. You then touch
+this spring—see?” and here she put her pretty
+white finger on a button in the wall. “You
+whistle through the aperture to the Culinary
+Board, put in the paper, and it is sent to the
+main office. You then receive supplies for
+the ensuing month.”
+
+
+”And where is this wonderful board?”
+
+
+“It is in Chicago, where all the great
+granaries are. You know Chicago supplies the food
+for the entire United Community.”
+
+
+“But Chicago is a thousand miles off. Isn’t
+all the food stale by the time it reaches you?”
+
+
+Here she laughed, although I could see she
+tried very hard not to do so. But my ignorance
+was evidently too amazingly funny. When she
+had regained composure she answered: “The
+food is sent to us by electricity through the
+culinary conduits. Everything is blown to us
+in a few minutes’ time, if it be necessary, if the
+food is to be eaten hot. If the food be cereals or
+condensed meats, it is sent by pneumatic
+express, done up in bottles or in pellets. All
+such food is carried about in one’s pocket. We
+take our food as we drink water, wherever we
+may happen to be, when it’s handy and when
+we need it. Although,” she added with a
+sigh, “I sometimes do wish I had lived in the
+good old times, in the nineteenth century, for
+instance, when such dear old-fashioned customs
+were in vogue as having four-hour dinners, and
+the ladies were taken into dinner by the
+gentlemen and everyone wore full dress—the dress
+of the period, and they used to flirt—wasn’t
+that the old word? over their wine and dessert.
+How changed everything is now! However,”
+she quickly added, “if kitchens and cooking
+and long dinners hadn’t been abolished, the
+final emancipation of women could never have
+been accomplished. The perfecting of the
+desire of women to please their husbands by
+dressing and cooking to suit them. When the
+last pie was made into the first pellet, woman’s
+true freedom began. She could then cast off
+her subordination both to her husband and to
+her servants. Women were only free, indeed,
+when the State prohibited the hiring of
+servants. Of course, the hiring of servants at all
+was as degrading to the oppressed class as it
+was a clog to the progress of their mistresses’
+freedom. The only way to raise the race
+was to put everyone on the same level,
+to make even degrees of servitude
+impossible.”
+
+
+“But how, may I be permitted to ask, is the
+rest of the housework accomplished, if no
+servants exist to take charge of so pretty a house
+as this one?” (The house, my dear Hannevig.
+was in reality hideous, as bare and as plain as
+are all the houses here. Each is furnished by
+state law, exactly alike).
+
+
+“Oh, everything is done by machinery, as at
+your hotel. Everything, the sweeping. bed
+making, window scrubbing and washing. Each
+separate department has its various appliances
+and apparatus. The women of every
+household are taught the use and management of the
+various machines, you know, at the expense
+of the state, during their youth; when they
+take the management of a house they can run
+it singlehanded. Most of the machinery goes
+by electricity. A house can be kept in perfect
+order by two hours’ work daily. The only hard
+work which we still have to do is dusting. No.
+invention has yet been effected which dusts
+satisfactorily without breakage to ornaments,
+which accounts for the fact, also, that the
+fashion of having odds and ends about a home
+has gone out. It was voted years ago by the
+largest womans’ vote ever polled, that since men
+could not create self-adjusting, non-destructive
+dusters, their homes must suffer. Women were
+not to be degraded to hand machines for the
+sake of ministering to men’s aesthetic tastes. So
+you see we have only the necessary chairs and
+tables. If men want to see pictures thy can go
+to the museums.”
+
+
+Perhaps it is this latter fact which accounts
+for my never being able to find the good citizen
+A—at home. He is gone to the public club,
+or to the bath, or to the Communal Theater,
+I am told, when I appear again and again.
+This wonderful community has done much, of
+that I am convinced, in the development of
+ideal freedom; but there appears to be a fatal
+blight somewhere in its principles, a blight which
+seems to have destroyed all delight in domestic
+life. In my next I will tell you more and at
+length, of the peculiar development which the
+race has attained under these now
+well-established emancipation doctrines, and of their
+results on the two sexes.
+
+
+I hope you are not wearying of my somewhat
+lengthy descriptions, but you yourself are to
+blame, as you bound me to such rigid promises
+of detail and accuracy.
+
+
+Farewell, dear companion, would you were
+here to use your wiser philosopher’s eyes.
+I am yours,
+WOLFGANG.
+
+
+# IV.
+DEAR FRIEND: No one thing, I think, strikes
+the foreigner’s eye, on his arrival in this
+extraordinary land so strongly as does the lack of
+variety and of taste displayed in the dress of
+either the men or the women. Both sexes
+dress, to begin with, as I said in my last,
+precisely alike. As it is one of the unwritten
+social laws of the people to dress as simply,
+economically and sensibly as possible, it results
+that there is neither brightness nor color nor
+beauty of line in any of the garments worn. In
+passing the Government Clothing Distribution
+Bureaus, nothing so forcibly suggests the ideal
+equality existing between the sexes, as does the
+sight of the big and the little trowsers, hanging
+side by side, quite unabashed, the straight and
+the baggy legs being the only discernible
+difference. Baggy trowsers and a somewhat
+long, full cloak for the women—straightlegged
+trowsers and a shorter coat for the men, this is
+the dress of the entire population. Some of the
+women are still pretty, in spite of their hideous
+clothes. But they all tell me, they wouldn’t be
+if they could help it, as they hold that the
+beauty of their sex was the chief cause of their
+long-continued former slavery. They consider
+comeliness now as a brand and mark of which to
+be ashamed. From what I have been able
+to observe, however, I should say that the
+prettiness which has descended to some of the
+women fails to awaken any old-time sentiment
+or gallantry on the part of the men. There has,
+I learn, been a gradual decay of the erotic
+sentiment, which doubtless accounts for the
+indifference among the men; a decay which is
+due to the peculiar relations brought about by
+the emancipation of woman.
+
+
+It is now nearly two hundred years since
+women have enjoyed the same freedom and
+rights as men. It is interesting and curious to
+note the changes, both upon the character and
+nature of the two sexus, which has been the
+result of this development. One’s first
+impression, in coming here, is that women are the sole
+inhabitants of the country. One sees them
+everywhere—in all the public offices, as heads
+of departments, as government clerks, as officials,
+as engineers, machinists, aeronauts, tax
+collectors, firemen, filling, in fact, every office and
+vocation in civil, political and social life. The
+few men—by comparison, whom I saw seemed
+to me to be allowed to exist as specimen
+examples of a fallen race. OI course, this view
+is more or less exaggeration. But the women
+here do appear to possess by far the most
+energy, vigor, vitality and ambition. Their
+predominance in office just now is owing to their
+over-powering number, the women’s vote polled
+being ten to one over that of the men. This
+strong sex influence has been fruitful in greatly
+changing and modifying the domestic, social
+and political laws of the community.
+
+
+Women, for instance, having satisfactorily
+emancipated themselves from the bondage of
+domestic drudgery and the dominion of
+servants, by means of the improvement in
+machinery and the invention of the famous culinary
+conduits, found one obstacle still in their path
+to complete and coequal man-freedom. There
+still remained the children to be taken care of
+and brought up. As motherhood came in
+course of time to be considered in its true light,
+as perhaps the chief cause of the degradation
+of women, it was finally abolished by act of
+legislature. Women were still to continue to
+bear children, or else the socialistic society
+itself would cease to be. A law was passed
+providing that children almost immediately
+after birth, should be brought up, educated
+and trained under state direction to be returned
+to their parents when fully grown, and ready
+for their duties as men and women citizens.
+In this way women stand at last on as absolutely
+equal a physical plane with men as it is possible
+to make them.
+
+
+It has followed, of course, that with the
+jurisdiction of the state over the children of the
+community, all family life has died out. Men
+and women live together as man and wife, but
+the relation between them has become more
+nominal than rural. It is significant of the
+changes that have been brought about between
+the sexes, that the word “home” has entirely
+dropped out of the language. A man’s house
+has in truth ceased to be his home. There are
+no children there to greet him, his wife, who is
+his comrade, a man, a citizen like himself, is as
+rarely at home as he. Their food can be eaten
+anywhere—there is no comm on board; there is
+not even a servant to welcome the master with a
+smile. The word wife has also lost all its
+original significance. It stands for nothing. Husband and wife are in reality two men having
+equal rights, with the same range of occupation,
+the same duties as citizens to perform, the
+same haunts and the same dreary leisure.
+
+
+Is it therefore, my dear Hannevig, to be
+wondered at, that all ideas of love, and that all
+strong mutual attraction and affections should
+have died out between the sexes? Man loves,
+longs for passionately and protects with tender
+solicitude only that which is difficult to
+conquer. The imagination must at least be
+inflamed. But where there is no struggle, no
+opposition, no conditions which breed longing, desire,
+or the poetry of a little healthy despair, how is
+love or any sentiment at all to be awakened or
+kindled? Here there is no parental authority
+to make a wall between lovers, nor is there
+inequality of fortunes, nor any marked
+difference between the two sexes, even in their daily.
+duties or in their lives. I am more and more
+impressed with the conviction, as I look into this
+question—this question of what we should
+consider the growth of an abnormal indifference
+between the sexes—that the latter cause is
+perhaps the one which has been chiefly
+instrumental in the bringing about so complete a change
+over the face of the passions. Woman has
+placed herself by the side of man, as his
+coequal in labor and vocation, only to make the
+real distance between them the greater. She has
+gained her independence at the expense of her
+strongest appeal to man, her power as mistress,
+wife and mother. How can a man get up any
+very vivid or profound sentiment or affection
+for these menwomen—who are neither mothers
+nor housekeepers, who differ in no smallest
+degree from themselves in their pursuits and
+occupation? Constant and perpetual
+companionship, from earliest infancy to manhood and
+old age has resulted in blunting all sense of any
+real difference between the sexes. Whatever
+slight inequalities may still exist between men
+and women in the matter of muscular energy
+or physical strength is more than
+counterbalanced by the enormous disproportion
+between them, numerically, as voters’.
+
+
+Some very curious and important political
+changes have been effected by the
+preponderance of the woman’s vote.
+
+
+Wars, for instance, have been within the last
+fifty years declared illegal. Woman found that
+whereas she was eminently fitted for all men’s
+avocations in time of peace, when it came to
+war she made a very poor figure of a soldier.
+Wars, therefore, were soon voted down; foreign
+difficulties were adjusted by arbitration. As
+women, as a rule, were sent on these foreign
+diplomatic missions, I have heard it wickedly
+whispered that the chief cause of the usually
+speedy conclusion of any trouble with a foreign
+court was because of the babel of tongues which
+ensued: a foreign court being willing to
+concede anything rather than to continue
+negotiations with women diplomatists. But this of
+course, is to be put down to pure
+maliciousness. Women since time immemorial, have
+had the best of man whenever it came to
+contests of the tongue, and this appears to be the
+one insignia of their former prestige which the
+sex insists on claiming.
+
+
+In my next I shall try to give you some
+conception of the position which man occupies, as
+a citizen and as worker in this community. I
+shall, I think, also be able to give you some
+most interesting results of the effects produced
+by the communistic, socialistic principles which
+have been incorporated into the constitution of
+this people.
+
+
+It is late and I am weary, so farewell for a
+few days. Ever and ever, —
+
+
+# V.
+
+
+More and more, as I study these
+institutions, am I reminded of the resemblance
+between these American socialists and the
+ancient Spartans. The Spartan was also a
+part of the State—had all things on a grand
+Communal scale—had public gam es,public
+theaters, baths, museums and festivals, being
+brought up by the state and his womenkind
+considered as a part of it.
+In this modern community, however, there
+are two important features which the
+simpler Spartans did not have to cope with.
+
+
+The Greeks stood at the dawn of civilization.
+The American finds himself at what he
+considers is the completion of it. Break away
+from his past as hard as ever he may try,
+he has still found himself heir to this past,
+and his heredity dominates him in spite
+of all his attempts to throw it off. The
+Greeks also were a warlike people, and the
+American is a peace lover, preferring the
+pipe to the sword. Perhaps above all else
+in the sum of these differences ought we
+to remember, the great factor of machinery as
+a substitute for manual labor. The sword
+raised man out of the dust. The piston has
+levelled him with it. I believe, my dear
+Hannevig, that if machinery had never been
+invented, socialism would never have been
+dreamed of. Machinery was the true cause of
+the conflict between capital and labor, and not
+the unequal distribution of land, as the great
+founder of this Communal Society, Henry
+George, asserted in this book, the bible of this
+people. Machinery needed capital to run it,
+and was more or less indifferent to labor. The
+laborer, with machinery as his rival, stood a
+far less possible chance of becoming a capitalist
+himself than he did when battling against men;
+his duties more and more closely resembling in
+their monotony and routine, the very
+machine that he was called on to feed, in turn
+re-acting in his natural aptitude.
+
+
+However, to go into the depths of this knotty
+question involves too much space for a letter.
+Let me, instead recall to your mind, as I have
+recently done to my own, the chief features of
+importance in the history of this people which
+have placed them where they now are.
+
+
+You recollect, of course. the terrible reign of
+blood that took place during the awful conflict
+between the republican Americans and the
+socialists and anarchists in 1900. The war
+began, nominally, as an act of resistance on the
+part of the Americans against the encroaching
+and insistent demands of the socialists,
+demands covering the abolishment of private
+ownership in land, of the division of property,
+both real and personal, and the overthrow,
+generally of all the then existing economic and
+social institutions. These socialists and
+anarchists represented the foreign element in the
+country, those who had imported their
+revolutionary doctrines with them. (If I remember
+rightly the early Americans had given all rights
+of citizenship to this foreign contingency, in a
+moment of mistaken Republican zeal, a
+political mistake they lived to rue bitterly later).
+Well, at first in this anarchist war, the
+Americans won, did they not? I find my memory
+tripping me at times—possibly would have
+continued to win had the war been conducted on
+strict military tactics. But the anarchists
+finding themselves unsuccessful as soldiers and
+warriors, resorted to the ingenious means of
+destroying their enemies by the use of
+explosives. Dynamite accomplished what the
+cannon and the bayonet were powerless to effect.
+Towns, cities and even the villages and
+hamlets, were lighted by the torch of electricity
+and seared level with the ground. Dynamite
+was reserved for the armies and for individual
+offenders. During that reign of destruction, it
+seemed as if not a man, woman or child would
+survive to carry even the memory of the great
+tragedy to their graves with them.
+
+
+However, since the anarchist’s plan was to
+reconstruct the whole face of society on a new
+basis, it was to be expected, of course, that the
+revolution they undertook as the means of
+effecting this would be carried through at
+whatever cost.
+
+
+There is one feature of this war which has
+always struck me as possessing a very
+humorous side. The anarchists, you remember, were
+foreigners, chiefly Germans, Irishmen and a few
+Russians. When the war was ended, by the
+destruction of very nearly all the Republican
+contingency, the anarchists broke out into
+dissension among themselves. The German element
+would not submit to Irish dictation—the latter
+leaders having. Apparently, a great opinion of
+their own talent for political leadership—and
+the Irish in turn violently resisted the
+German dicta. A veritable anarchy ensued a
+war so fierce that it looked at one time as if
+the whole continent might be left a howling
+wilderness, with neither conqueror nor
+conquered to enter and take possession of what
+however, a few of the Americans had survived.
+Among them were some of the descendants of
+the ancient New England statesmen. These
+men, although under sentence of death, were
+liberated, that they might act as
+peacemakers between the two factions. Americans,
+you see, had had so much experience in
+reconciling. conciliating and pacifying the difficulties
+between the Irish and German parties during
+the American Republican era, that these
+survivors were eminently fitted to adjust
+affairs at issue between them now. The
+American Council decided that the Irishmen
+should draw up the laws and regulations
+for the new Communal and Socialistic
+constitution, while the Germans should see that the
+new society was properly organized; a decision
+which proves the real genius for statescraft
+which these ingenious Americans possessed.
+For Irishmen are proverbially affluent of ideas
+and incapable of putting them into action,
+unless it be violent action, while the Germans
+have proved themselves practical organizers
+and ideal political policemen. The sagacity of
+the old American Republicans was shown in
+the manner in which they themselves, in their
+era of power, had made use of the
+distinguishing qualities of the two races, when such
+hordes overflowed. The land during the great
+emigration period. The Irishmen were kept in
+the large cities, where they were allowed to
+misgovern the towns to their hearts’ desire, being
+thus given a vent for their turbulent political
+spirit; while the Germans, on the contrary,
+were sent into the still unconquered wilderness
+to turn it into a garden by their industry and
+thrift. The American having thus made use of
+the Irishmen to run his political machinery for
+him, and of the Germans to extend the
+territorial lines of order and civilization, secured unto
+himself all his own time for money making.
+Hence the colossal American fortunes, which,
+as we read of them now, seem to us like a tale
+of magicians. Such a policy must have seemed
+to a nineteenth-century American as a very
+shrewd and ingenious way of utilizing clements
+which otherwise might prove dangerous. The
+policy was, in truth, a fatally shortsighted one,
+as was proved later; since it was the enormous
+accumulation of fortunes in a few hands and
+the supposed tyranny of capital which wrought
+to a frenzy the envy and anger of the foreign
+poorer classes, then under the sway of the
+anarchist revolutionists.
+
+
+After the American statesmen had made
+peace between the conquering but quarrelsome
+anarchists, these latter set about organizing
+the new society. Anarchy itself, although the
+principles for which it had fought and
+conquered now .prevailed, it was found, must
+subordinate itself to some form or order before it
+could hope to enforce order upon others.
+
+
+The Anarchist’s war-cry had been, as you
+remember—Away with private property! away
+with all authority! away with the State! away
+with all political machinery! But now the
+leaders discovered that a belief in the reign of
+anarchy was one thing, and its practice was
+quite another. For a time, as you know, there
+was a terrible period of disorder, during which
+the grossest excesses were practiced under the
+name of “Perfect Individualism,” “a common
+property, common freedom, common
+distribution for all.” After a few years of the wildest
+indulgence, rapacity, crime, and cruelty—for,
+of course, there being no government, there
+could be neither restraints imposed nor crimes
+punished—the people themselves at last began
+to cry aloud for some form of government
+which should include at least order and decency.
+The Socialists’ doctrines were then decided
+upon as being more in conformity with the
+demands of the people and with the necessities
+of organizing a state than were the formless
+theories of the anarchists.
+
+
+The leaders among the people, as has been
+done so many times before in the history of
+the world, began again the making of new laws,
+for the establishment of an ideal government
+and the forming of a new constitution which
+was to insure perfect and complete happiness
+to the individual and the race.
+
+
+For over a hundred and fifty years, now, this
+ideal socialistic society had existed, and what
+are the results? No people ever assuredly had
+a more wonderful chance at constructing a
+society on an ideal basis than had these
+socialists. Think of it! An entire continent at
+their disposal, their enemies or opponents all
+killed or in exile, and they themselves united
+in desire and in political interest. Well, if
+some of the ineradicable, indestructible
+principles in human nature could be changed as
+easily as laws are made and unmade, the
+chances for an ideal realization of the happiness
+of mankind would be the more easily attained.
+But the Socialists committed the grave error of
+omitting to count some of these determining
+human laws into the sum of their calculations.
+
+
+Time and paper are, however, finite, and
+also, presumably, your patience. I will
+postpone until my next the few remaining
+conclusions to which a brief study of this people and
+their government have led.
+
+
+Your faithful
+WOLFGANG.
+
+
+# VI.
+DEAR FRIEND: The longer I stay here the
+more I am impressed with the profound
+melancholy which appears to have taken possession
+of this people. The men, particularly, seem
+sunk in a torpor of dejection and settled
+apathy. The women, although by no means so
+vivacious and vigorous as our women, are,
+however, far more animated, and seem to have a
+keener relish for life, than the men. Probably
+the comparatively recent emancipation of the
+women, their new political and social freedom,
+adds a zest to the routine of life here which
+men do not feel.
+
+
+So universal is the dreary aspect of the
+people, whether at work or play—and they play, I
+observe, far more languidly than they
+work that the type of face among them has
+undergone a strange and interesting transformation.
+You remember in the old prints the typical
+“Yankee” face, with its keen, penetrating eye,
+its courageous, determined chin, its intelligent
+brow, and its extraordinarily shrewd and
+intently alert expression. This vivacity and
+energy, once the chief charm of the American
+face, has entirely disappeared. In its stead,
+imagine wooden, almost sodden features, heavy,
+dull eyes, receding chins. and a brow on which
+dullness that very nearly approaches stupidity is
+writ in large letters. On all the faces is a
+stereotyped expression, a mingling of discontent
+and dejection. There is the same lack of
+variety of types among the faces I have noticed, as
+there is a want of contrast in the houses and
+streets. The entire population appears to have
+one face; wherever one turns one sees it
+repeated ad infinitum, whether it be that of man
+or woman, youth or old age.
+
+
+I have accounted to myself for this curious
+physiological uniformity by finding in it simply
+a reflection of the uniformity seen in the life
+and occupations of this people. The race
+having been leveled to a common plane, there has
+been a gradual dying out of individuality. The
+inevitable curtailment of individual aims,
+individual struggle, individual ambitions, has
+naturally resulted in producing a featureless type of
+character, common to all. Since, of course, it
+is character alone which mulds feature, this
+people, being all more or.less alike, have come,
+in process of time, to look alike. Nature, after
+all, is only clay in the potter’s hand. Man,
+with his laws and creeds, fashions in the end
+
+
+I found it, however, far more difficult to
+tion which appears to have settled upon this
+people, than to seek the causes of the above
+physiological aspect. I asked myself. again
+and again, why should this people, of all
+people, be full of this discontent and
+unhappiness? Haven’t they come to the realization of
+all their dreams? Have they not attained to
+the very summit and to the full glory of the
+possession of their social, civic and political
+desires and aspirations? Is there not equality
+of sex? Has not leisure instead of labor
+become a law? Is not private property abolished—is not the land the property of the
+State—the wage system become a thing of the past,
+and the possession of capital made a crime
+punishable by law? Does not the State also
+exist for the people, educating them, training
+them for their work in life, distributing among
+them any surplus funds that the public treasury
+may accumulate, and furnishing for their
+amusement and leisure a vast system of
+educational clubs, educational theaters, public
+games, museums and shows? If a people are
+not happy under such conditions, what will
+insure content?
+
+
+Yet come with me. Let us walk through the
+principal thoroughfares, and watch the
+multitudes of people wandering listlessly up and
+down the streets; let us see them as they drift
+aimlessly into the theaters, museums, clubs; let
+us look in on them as they idly finger the
+new books and newspapers, yawning over
+them as they read, and you will agree with
+me, that the entire population seems to have
+but one really serious purpose in life—to
+murder time which appears to be slowly killing
+them.
+
+
+After much thought on the reasons of this
+strange apathy, this inertia, and sloth of energy.
+I have come to two conclusions which have
+helped me to solve the problem of this people’s
+unhappiness. My first conclusion is that the
+people are dying for want of work—of
+downright hard work—my second conclusion
+is that in trying to establish the law of
+equality, the founders of this ideal
+community committed the fatal mistake of counting
+out those indestructible, ineradicable human
+tendencies and aspirations which have hitherto
+been the source of all human progress, to which
+I alluded in my last letter.
+
+
+First, let us take the subject of work. As all
+work, men and women alike, and as machinery
+has been brought here to a wonderful degree of
+perfection, the actual labor necessary to
+maintain the people is, of necessity, very light. At
+first, a hundred or so years ago, in the early
+days of the community, the time of labor was
+fixed at five hours per day. But every decade,
+with the growth of the population, the labor
+hours have been diminishing. Recently a law
+has been put into effect, forbidding any one’s
+working more than two hours a day. This
+latter law has been found to be an actual
+necessity, from an economic point of view, as a
+provision against surplus production. A man,
+therefore, has the whole of the rest of his day
+on his hands, to spend as best he may.
+
+
+The original hope and belief of the founders
+of Socialism was that if the people could only
+be given sufficient leisure, the whole race would
+be lifted to an extraordinary plane of
+perfection; that, were men given time enough, each
+man and woman would devote himself and
+herself to the development and improvement of
+his or her mental tastes and capacities. At first,
+I believe, such was the case. For at least thirty
+years there was an extraordinary zeal for
+learning and self-improvement. But in time, a reaction came. The founders had forgotten to
+make allowances for the mass of sluggards,
+idlers, and ne’er-do-wells who are always the
+immovable block in the reformer’s path of progress.
+Two parties were soon developed; the party
+of enlightenment and the conservative party.
+ILearning being the sole channel for the exercise
+of individual capacity or individual ambition,
+the old baneful system of competition soon
+developed itself. A superior class, a class
+composed of scholars, students, artists and
+authors, arose, whose views and whose political
+ideas threatened the very life and liberties of
+the community. The aristocracy of intellect, it
+was found was as dangerous to the State as an
+aristocracy founded on pride of descent or on
+the possession of ancestral acres. It became
+necessary, therefore, to make a law against
+learning and the sciences. All scholars, authors,
+artists and scientists who were found on
+examination to be more gifted than the average,
+were exiled.
+
+
+A strict law was passed, and has since been
+rigidly enforced, forbidding mental or artistic
+development being carried beyond a certain
+fixed standard, a standard attainable by all.
+Quite naturally learning and the arts have
+gradually died out among this people. Whcre
+there are no rewards either of fame or personal
+advancement, the spur to mental or artistic
+achievement is found wanting. The arts
+particularly have languished. Art, as is well
+known, can only live by the strength of the
+imagination—and the imagination is fed by
+contrasts of life and degrees of picturesqueness.
+One of the old American sages, Emerson I
+think it was, well said of the artist, “If the rich
+were not rich, how poor would the poet be!”
+Quite naturally, in such a civilization as this,
+no conditions exist for either creating or
+maintaining artistic ability.
+
+
+Can you not imagine, my dear Hannevig.
+that under such a system and order of life, time
+might be found to be a weighty burden? After
+the two hours devoted to labor, there are still
+fourteen waking hours to be be disposed of. The
+people have, it is true, their clubs and their
+theaters, the national games, their libraries and
+gardens. But just because all these are free
+and at their command, is, I presume, reason
+enough for their finding the amusements thus
+provided tame and uninteresting. Most of the
+inhabitants of this city spend their days at the
+gymnasium. In the exercises and games there
+practiced, one sees the only evidence or show
+of excitement and interest indulged in. Both
+men and women are muscled like athletes, from
+their continual exercises and perpetual bathing.
+The athletic party is now trying to pass a law
+to permit races and contests on the old Greek
+plan. But the conservatives will scarcely pass
+it, as they urge that the Olympian games, by
+developing the physical powers, was in reality
+only a training-school for the Greek army, and
+internecine trouble and dissension would surely
+follow any such public games, as they did in
+the Greek states.
+
+
+You have, I believe, asked me if the people
+here are not allowed to find a scope for their
+superfluous energies in politics. But politics,
+as a profession, as a separate and independent
+function of activity, has ceased to exist. The
+state or Government is run on the great
+universal principle of reciprocity which governs
+the entire community. It exists for the people,
+is administered by the people, and acts for the
+people. All surplus revenues, derived from a
+minimum of equalized taxation are turned over
+to the public fund, being applied to public use.
+The machinery of the Government is run on the
+same principle of light labor which governs
+individual exertions. Each citizen, men and
+women alike, of course, serves his or her term
+as a government official, as in old Prussia men
+served in the army. As no one is ever
+reelected, no matter what his capacity or ability,
+and as each citizen only serves once during his
+life-time, there is no such thing known as
+political strife, or bribery or corruption. Neither
+is there any political life. The government is
+as automatic a performance as one of the
+silklooms of a factory.
+
+
+There are certain changes which have lately
+taken place in the political and international
+affairs of the people which lead one into a
+labyrinth of speculation. There has, for
+instance, been a noticeable and lamentable dying
+out of international commerce and a general
+sluggishness of trade which greatly alarms the
+community at large. All trade and commerce
+are conducted on the socialistic principle,
+which forbids the venture of private capital,
+did such here exist, or of private enterprise.
+
+
+It is the State which directs all such ventures.
+But the State, for some reason or other, does
+not appear to be a success as a merchant or as
+commercial financier. For one thing, the State
+is tremendously absorbed in its own affairs. As
+it takes care of its people, educating, training
+and developing them; as it looks after the
+material comforts and necessities of its vast
+population, its own internal duties really absorb
+all its energies. Then, in a government, founded
+as this one is, on a principle of equality, which
+principle is the sworn enemy of ambition there
+must of necessity be a lack of initiative, a
+feebleness in aggressive attack, and a want of
+determination in the pursuance of any given
+policy. It is only ambitious staple governments
+which can command and maintain a definite
+policy of national action. Even the American
+republic found it difficult. with its recurrent
+changes in official departments, to carry into
+effect great international projects. The
+people, here have ended by contenting themselves
+with the exercise of only so much executive,
+political or commercial activity as is found
+actually necessary to maintain their own
+existence. Men, whether as individuals or as a
+collective body, are indeed only actively
+aggressive, ambitious or audacious in proportion as
+they meet with opposition. It is struggle, and
+not the absence of it, which makes both men
+and a nation great.
+
+
+I have, therefore, ceased to ask myself where
+are the old magnificent energies which once
+characterized this people. One looks in vain
+for the former warfare of intelligence, for the
+old time audacity of invention, for the fray
+of commercial contest, for the powerful
+massing of capital we read of as
+characteristic of Americans two hundred years ago.
+All this has gone with the old competitive
+system.
+
+
+With the abolishment of competition have
+died out, naturally, all the prizes and rewards
+in life which came from individual struggle.
+As accumulation of personal property, in lands
+or in moneys, and the possibility of personal
+advancement are forbidden by law, under this
+form of government, all incentives to personal
+activity have disappeared. The law of
+equality, with its logical decrees for the suppression
+of superiority, has brought about the other
+extreme, sterility. The crippling of individual
+activity has finally produced its legitimate
+result—it has fatally sapped the energies of
+the people.
+
+
+It is a curious and interesting feature in
+one’s study of this people, to find that it is not
+the establishment of the law of equality which
+has been the cause of decay in this people, but
+the enforcement of the opposite law—the law
+it was soon found necessary to establish against
+inequality. It naturally and logically followed
+that if men are to be made equal, such equality
+can only be maintained by the suppression of
+degrees of inequality. Mentally, for instance,
+the standard must be made low enough for all
+to attain it; each man, therefore, in time, no
+matter what his fitness, capacity or gift, was
+forced to subordinate his particular qualities to
+the general possibility of attainment. This
+level of a common mediocrity was more or less
+difficult to enforce and develop. Their own i
+historians record many interesting accounts of
+the slow death of inequality. In one I read only ß
+yesterday,”  So instinctive through long
+centuries of oppression and misuse of power was
+the impulse among men to aspire to
+superiority of attainment, to excel in mental
+development, or to exhibit richer creative power, that
+for years the state penitentiaries were filled
+with men whose crime was their
+unconquerable desire selfishly to surpass their less
+fortunate brothers. It is only within our own
+enlightened twenty-first century that this grave
+fault has been remedied. Now, happily, no
+one dreams of insuring his own personal
+happiness at the expense of others.”
+
+
+And so, my dear Hannevig, the old drama
+of history is enacted anew. Years ago men
+were unhappy because the many had to
+struggle against the favored few. Here, where all
+are equal, men are miserable because they are
+so; because all having equal claims to
+happiness, find life equally dull and aimless. The
+perpetual moan here is, O for a chance to be
+something, to do something, to achieve
+something!
+
+
+I shall be able to send you only one more
+letter, as I return in a few days—by balloon
+this time, I think, instead of by tunnel.
+
+
+# VII.
+## Christmas Day
+
+
+My good Hanniveg: I have only just time
+to send you one more incident and scene. It
+being, as you may have observed at the top of
+my letter, Christmas Day, I was curious to see
+how this festival would be observed here.
+Somewhat to my surprise I observed that the
+population went about their avocations just as usual.
+Then I reflected, in a country, where every day
+after eleven in the morning a true holiday sets
+in, there being nothing for anyone to do except
+to enjoy themselves, it would be difficult fitly to
+celebrate any special fete day. In point of fact,
+there are none such. The people voted them
+out of the calendar, saying they had all they
+could do to kill the ordinary enjoyment hours
+of each week without having to invent new
+games or occupations for a dozen different
+feast days. So all holidays are prescribed by law
+except Christmas. This day is kept up for two
+reasons—because it is thought to be an
+excellent time to show off the children brought up
+by the State to the people, and also because
+on Christmas Day each child is allowed to spend
+the day at home.
+
+
+The exercises of the day began at the great
+Ethical Temple. Here ten thousand children
+were gathered to listen first to a lecture on
+the history of Christmas. There was a play in
+which Santa Claus appeared and a number of
+other legendary characters, to show the
+children in what mythological, absurd beings the
+children of the unenlightened nineteenth
+century believed in. Then ten thousand toys were
+distributed, dolls and whips and tops, and
+sleighs and skates. But as all were distributed
+indiscriminately by State officers to the
+children as they passed out on review, of course all
+the boys got the dolls and the girls the whips
+and tops. An hour afterward, outside the
+great building, I saw groups of the children
+doing a tremendous exchange, far more
+interested in bartering damaged dolls for shining
+skates than in endeavoring to establish the
+identity of their own parents, whom, indeed,
+having only seen a few times in the course of
+their lives, they barely know by sight.
+
+
+I was slowly walking homeward, speculating
+on these and other revelations made by a more
+intimate knowledge of the workings of this
+great community, when I encountered a familiar
+face. It was that of my young lady-friend,
+whose conversation I reported to you above.
+She joined me and we walked on together.
+
+
+“I hear you are going back to Sweden; is it
+true?” she asked.
+
+
+“Yes, I return in a few days.”
+
+
+“But you have enjoyed your
+trip-and—us?”
+
+
+“Immensely. You are a wonderful
+country.”
+
+
+“That, if I remember, is just what foreigners
+said to Americans two hundred years ago.”
+(I like this young girl particularly. She is
+more intelligent than most of the women one
+meets here. She is allowed to be, she told me,
+because she was so much less good looking
+than others, which is true. But in this land of
+dead equality one is grateful for a little
+intelligence, even if it be served up with
+homeliness).
+
+
+“There is one thing I can not become
+accustomed to,” I said not wishing to be called to
+closer account for my impressions,” and that is
+that there are no church steeples or spires. The
+absence of them gives such a uniform look to
+all your cities.
+
+
+“Churches? Oh, they went out long ago,
+you know. Religion, it was found, brought
+about discussion. It was voted immoral.”
+
+
+“Yes, I know. Only I thought a few spires
+or churches might possibly have been preserved
+in a kind of sentimental pickle, as castles and
+ruins are kept in England, to add what an old
+writer calls " the necessary element of decay to
+the landscape.”
+
+
+“That was Ruskin, was it not? What a
+quaint old writer! His books read as if they
+were written in a dead language. As for the
+churches, they were all destroyed, you know,
+in the war between the radicals and the
+orthodox, and not a stone was left standing.
+Since then the State has erected these huge
+Ethical Temples, where all the religions are
+explained and where the philosophy of ethics is
+taught the people. The finest of all these
+temples is the Temple of the Liberators; have
+you seen it yet? "—she asked.
+
+
+“I have not, but I should like to do so. WilI
+you be my guide?”
+
+
+She led me thither.
+
+
+We soon came to a structure which being
+smaller, and of fairly good and symmetrical
+proportions, was a little less hideous than the other
+temples I had seen. Inside, in the center of
+the building was a colossal statue—a portrait it
+is said—of the founder, Henry George. Around
+the sides of the wall, were niches where portrait
+busts of the martyrs stand—the nihilists, early
+anarchists, and socialists who endured
+persecution and often death in the early days of
+socialism. A book I noticed was placed near
+the Henry George statue. It was the
+socialistic bible " Poverty and Progress” which
+with a number of other such books forms the
+chief literature of the people. Once a year,
+my young friend told me, there is a sacred
+reading to the people from this book.
+
+
+As we turned to pursue our way homeward
+she again began to question me—“But you
+haven’t told me yet what you think of
+usas a country and a people,” she persisted.
+
+
+“Well, since you will have it I will tell you.
+You are a great and surprising people.” I mean
+her, as I must you, for my letter is a volume.
+In a few days I shall be telling you all I can not
+write. Adieu,
+
+
+Yours,
+WOLFGANG.
