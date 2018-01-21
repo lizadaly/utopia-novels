@@ -60,7 +60,7 @@ such luxuries. I, however, never having been
 through the great tunnel before, was naturally
 more interested in what was passing so swiftly
 making the journey of three thousand miles
-] just ten hours long. In spite of the swiftness
+just ten hours long. In spite of the swiftness
 of our transit, we were enabled by the aid of
 the instantaneous photographic process, as
 applied to opera-glasses and telescopes, to feel
