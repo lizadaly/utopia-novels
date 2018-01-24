@@ -1,16 +1,22 @@
+% Three Hundred Years Hence
+% Mary Griffith
+% 1836
+
 ---
 title:
 - type: main
   text: Three Hundred Years Hence
-creator:
-- role: author
-  text: Mary Griffith
 identifier:
 - scheme: URN
   text: uuid:1876143A-7BDD-42E5-A84D-A5903F70CD20
 date: 1836
 rights: Public Domain
 cover-image: cover.png
+cover-credit: |
+  [Liza Daly](https://lizadaly.com)
+epub-file: 300-years-hence.epub
+description: |
+  _Three Hundred Years Hence_ is a utopian science fiction novel by author [Mary Griffith](https://en.wikipedia.org/wiki/Mary_Griffith), published in 1836. It is the first known utopian novel written by an American woman. The novel was originally published in 1836 as part of Griffith's collection, _Camperdown, or News from Our Neighborhood_, and later published by Prime Press in 1950 in an edition of 300 copies.
 ---
 
 # Chapter I.

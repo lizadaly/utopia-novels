@@ -1,18 +1,25 @@
+% The Republic of the Future
+% Anna Bowman Dodd
+% 1887
+
 ---
 title:
 - type: main
   text: The Republic of the Future
 - type: subtitle
   text: or, Socialism a Reality
-creator:
-- role: author
-  text: Anna Bowman Dodd
 identifier:
 - scheme: URN
   text: uuid:F7B30324-A8E0-4B2A-A83D-9F83E67CC9A6
 date: 1887
 rights: Public Domain
 cover-image: cover.png
+cover-credit: |
+  [Liza Daly](https://lizadaly.com)
+epub-file: republic-of-the-future.epub
+description: |
+  _The Republic of the Future: or, Socialism a Reality_ is a novella by the American writer [Anna Bowman Dodd](https://en.wikipedia.org/wiki/Anna_Bowman_Dodd), first published in 1887. The book is a dystopia written in response the utopian literature, though published a year
+  before the appearance of [Edward Bellamy's](https://en.wikipedia.org/wiki/Edward_Bellamy) [Looking Backward](https://en.wikipedia.org/wiki/Looking_Backward) (1888).
 ---
 
 > Letters from a Swedish nobleman living in the 21st

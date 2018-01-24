@@ -1,0 +1,104 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Libre+Baskerville" rel="stylesheet">
+$for(author-meta)$
+  <meta name="author" content="$author-meta$" />
+$endfor$
+$if(date-meta)$
+  <meta name="date" content="$date-meta$" />
+$endif$
+  <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
+  <style type="text/css">code{white-space: pre;}</style>
+$if(quotes)$
+  <style type="text/css">q { quotes: "“" "”" "‘" "’"; }</style>
+$endif$
+$if(highlighting-css)$
+  <style type="text/css">
+$highlighting-css$
+  </style>
+$endif$
+$for(css)$
+  <link rel="stylesheet" href="$css$" $if(html5)$$else$type="text/css" $endif$/>
+$endfor$
+$if(math)$
+  $math$
+$endif$
+$for(header-includes)$
+  $header-includes$
+$endfor$
+</head>
+<body>
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="https://lizadaly.github.io/utopia-novels/">Utopia Novels repository</a>
+  </nav>
+
+  <div class="container">
+
+    <div class="titlepage jumbotron">
+        <figure class="float-right cover">
+          <img src="cover.png" alt="Cover of $title$" />
+          $if(cover-credit)$
+          <figcaption>Cover image by $cover-credit$</figcaption>
+          $endif$
+        </figure>
+
+        <div class="">
+        $for(title)$
+          $if(title.type)$
+            <h1 class="$title.type$">$title.text$</h1>
+          $else$
+            <h1 class="title">$title$</h1>
+          $endif$
+        $endfor$
+
+        $if(subtitle)$
+          <h2 class="subtitle">$subtitle$</h2>
+        $endif$
+        $for(author)$
+          <h3 class="author">$author$</h3>
+        $endfor$
+        $for(creator)$
+          <h3 class="$creator.role$">$creator.text$</h3>
+        $endfor$
+        $if(publisher)$
+          <h4 class="publisher">$publisher$</h4>
+        $endif$
+        $if(date)$
+          <h5 class="date">$date$</h5>
+        $endif$
+        $if(rights)$
+          <h5 class="rights">$rights$</h5>
+        $endif$
+        <h6>EPUB version of this book: <a href="$epub-file$">$epub-file$</a></h6>
+
+        $if(description)$
+        <p class="description">
+        $description$
+        </p>
+        $endif$
+
+        </div>
+
+
+      </div>
+    </div>  <!-- end title page -->
+
+  <div class="row book">
+    <div class="col">
+      $body$
+    </div>
+  </div>
+
+  <footer>
+    <ul class="list-inline">
+      <li class="list-inline-item">This material is in the public domain/li>
+    </ul>
+  </footer>
+</body>
+</html>

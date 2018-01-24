@@ -1,0 +1,82 @@
+body {
+  font-family: 'Libre Baskerville', serif;
+}
+a {
+  color: firebrick;
+  text-decoration: underline;
+}
+a:hover {
+  color: gray;
+}
+.book {
+  width: 60vw;
+  margin: auto;
+}
+.jumbotron {
+  min-height: 500px;
+}
+figure {
+  margin-left: 2em;
+}
+.cover img {
+  max-height: 400px;
+}
+.cover figcaption {
+  text-align: center;
+  font-size: 13px;
+  padding-top: 5px;
+}
+
+.description {
+  margin-top: 2em;
+}
+
+h1, h2, h3, h4, h5, h6,
+  .titlepage p, .titlepage div {
+  font-family: 'Playfair Display', serif;
+  text-align: left;
+}
+h1 {
+  font-size: 44px;
+  line-height: 1.4em;
+}
+.book h1 {
+  margin-top: 2em;
+  text-align: center;
+
+}
+
+.rights:before {
+  content: "Rights: ";
+}
+
+.date:before {
+  content: "Publication date: ";
+}
+
+h2, h3 {
+  line-height: 1em;
+  padding: 0;
+}
+h6 {
+  font-weight: bold;
+}
+
+.book h2 {
+  margin: .25em;
+  text-align: center
+}
+
+.book h3 {
+  margin: 2em;
+  text-align: center;
+}
+
+blockquote p {
+  text-align: center;
+}
+.book p {
+  line-height: 1.6em;
+  text-indent: 1em;
+  margin: 1em 0;
+}

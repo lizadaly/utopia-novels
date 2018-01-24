@@ -1,22 +1,28 @@
+% Moving the Mountain
+% Charlotte Perkins Gilman
+% 1911
+
 ---
 title:
 - type: main
   text: Moving the Mountain
-creator:
-- role: author
-  text: Charlotte Perkins Gilman
 identifier:
 - scheme: URN
   text: uuid:85312B37-6430-4913-8EE2-A71963CBC2C0
-date: 1919
+date: 1911
 rights: Public Domain
 cover-image: cover.png
+cover-credit: |
+  [Liza Daly](https://lizadaly.com)
+epub-file: moving-the-mountain.epub
+description: |
+  _Moving the Mountain_ is a feminist utopian novel written by [Charlotte Perkins Gilman](https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman),
+  a prominent American feminist, sociologist, novelist, writer of short stories, poetry, and nonfiction, and a lecturer for social reform. It was published serially in Perkins Gilman's periodical [The Forerunner](http://www.charlotteperkinsgilman.com/2008/05/forerunner-11-forerunner-advertisement.html) and then in book form.
 ---
-
 
 # Preface
 
-ONE of the most distinctive features of the human mind is to forecast
+One of the most distinctive features of the human mind is to forecast
 better things.
 
 > “We look before and after<br/>
