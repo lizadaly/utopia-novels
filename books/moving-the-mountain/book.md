@@ -14,6 +14,8 @@ rights: Public Domain
 cover-image: cover.png
 cover-credit: |
   [Liza Daly](https://lizadaly.com)
+cover-source: |
+  [Berneralpen vom Pilatus aus., Photochrom Zürich](https://www.rijksmuseum.nl/en/my/collections/141--mattie-boom/colormania/objecten#/RP-F-F01156-DJ,13) (1890)
 epub-file: moving-the-mountain.epub
 description: |
   _Moving the Mountain_ is a feminist utopian novel written by [Charlotte Perkins Gilman](https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman),

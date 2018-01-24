@@ -1,6 +1,13 @@
-## Moving the Mountain
-### Charlotte Perkins Gilman
+# Moving the Mountain
+## By Charlotte Perkins Gilman
+### Published (1911)
 
-HTML edition [originally provided](https://ebooks.adelaide.edu.au/g/gilman/charlotte_perkins/moving/) by the University of Adelaide.
+Book cover by [Liza Daly](https://lizadaly.com).
 
-Cover: [Berneralpen vom Pilatus aus., Photochrom Zürich](https://www.rijksmuseum.nl/en/my/collections/141--mattie-boom/colormania/objecten#/RP-F-F01156-DJ,13) (1890)
+Cover source: [Berneralpen vom Pilatus aus., Photochrom
+Zürich](https://www.rijksmuseum.nl/en/my/collections/141--mattie-boom/colormania/objecten#/RP-F-F01156-DJ,13)
+(1890)
+
+Read [Moving the Mountain](https://lizadaly.github.io/utopia-novels/books/moving-the-mountain/moving-the-mountain.html) in a web browser.
+
+Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/moving-the-mountain/moving-the-mountain.epub).

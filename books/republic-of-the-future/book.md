@@ -16,6 +16,8 @@ rights: Public Domain
 cover-image: cover.png
 cover-credit: |
   [Liza Daly](https://lizadaly.com)
+cover-source: |
+  [Broadway and 42nd Street](https://www.metmuseum.org/art/collection/search/11029?sortBy=Relevance&amp;when=A.D.+1900-present&amp;what=Paintings&amp;ao=on&amp;ft=%22new+york%22&amp;offset=0&amp;rpp=100&amp;pos=29) by Childe Hassam (1902) courtesy The Metropolitan Museum of Art.
 epub-file: republic-of-the-future.epub
 description: |
   _The Republic of the Future: or, Socialism a Reality_ is a novella by the American writer [Anna Bowman Dodd](https://en.wikipedia.org/wiki/Anna_Bowman_Dodd), first published in 1887. The book is a dystopia written in response the utopian literature, though published a year

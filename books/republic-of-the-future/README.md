@@ -1,6 +1,13 @@
 # The Republic of the Future
-## Anna Bowman Dodd (1887)
+## By Anna Bowman Dodd
+### Published (1887)
 
-Cover art: [Broadway and 42nd Street](https://www.metmuseum.org/art/collection/search/11029?sortBy=Relevance&amp;when=A.D.+1900-present&amp;what=Paintings&amp;ao=on&amp;ft=%22new+york%22&amp;offset=0&amp;rpp=100&amp;pos=29) by Childe Hassam (1902) courtesy The Metropolitan Museum of Art.
+Book cover by [Liza Daly](https://lizadaly.com).
 
-A version of this is posted on the web: [The Republic of the Future](https://lizadaly.com/pages/republic-of-the-future/)
+Cover source: [Broadway and 42nd
+Street](https://www.metmuseum.org/art/collection/search/11029?sortBy=Relevance&when=A.D.+1900-present&what=Paintings&ao=on&ft=%22new+york%22&offset=0&rpp=100&pos=29)
+by Childe Hassam (1902) courtesy The Metropolitan Museum of Art.
+
+Read [The Republic of the Future](https://lizadaly.github.io/utopia-novels/books/republic-of-the-future/republic-of-the-future.html) in a web browser.
+
+Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/republic-of-the-future/republic-of-the-future.epub).
