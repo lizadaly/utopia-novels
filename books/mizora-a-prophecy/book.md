@@ -12,13 +12,16 @@ identifier:
 - scheme: URN
   text: uuid:CD761F0F-6FFE-4D9C-8AD7-6D62BC4B2009
 date: 1889
-rights: Public Domain
+rights: Public Domain 
 # cover-image: cover.png
 cover-credit: |
   [Liza Daly](https://lizadaly.com)
 epub-file: mizora-a-prophesy.epub
-description: |
-  FIXME
+description: | 
+  The full title is: _Mizora: A Prophecy: A Mss. Found Among the Private Papers of Princess Vera Zarovitch: Being a True and Faithful Account of her Journey to the Interior of the Earth, with a Careful Description of the Country and its Inhabitants, their Customs, Manners, and Government._ It was first serialized in the Cincinnati Commercial newspaper in 1880.
+  Little is known about the author.
+  
+  Content warning: The society that the author describes is enthusiastically eugenicist. 
 ---
 
 # Mizora
