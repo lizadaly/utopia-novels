@@ -2,7 +2,7 @@
 % Anna Adolph
 % 1899
 
-
+---
 title:
 - type: main
 text: Arqtiq
@@ -19,7 +19,7 @@ cover-credit: |
 epub-file: arqtiq.epub
 description: |
 TBD
-
+---
 
 # Arqtiq
 ### A Story of the Marvels at the North Pole
@@ -336,8 +336,8 @@ noses, in local fashion of “good bye,” as our prow
 points north.
 
 We have carefully selected this season of the year,
-with intent to follow the continual dawn light—-night
-and day—-of this region, which yet faint, is hardly
+with intent to follow the continual dawn light—night
+and day—of this region, which yet faint, is hardly
 sufficient to keep us moving swiftly, when, lo, near us darts
 up a bright glare, followed by others, around and ahead,
 as far as we can see, illumining the air. They are
