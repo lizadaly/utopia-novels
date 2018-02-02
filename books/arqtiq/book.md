@@ -18,7 +18,9 @@ cover-credit: |
   [Liza Daly](https://lizadaly.com)
 epub-file: arqtiq.epub
 description: |
-  TBD
+  This puzzling novel, self-published in 1899, has an idiosyncratic, even ungrammatical
+  writing style, but is deeply creative and strange. Almost nothing is known about the
+  author.
 ---
 
 # Arqtiq
