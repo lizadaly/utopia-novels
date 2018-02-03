@@ -13,7 +13,7 @@ Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/
 ## Book cover
 <img src="https://lizadaly.github.io/utopia-novels/books/arqtiq/cover.png" height="300" align="right">
 
-[Liza Daly](https://lizadaly.com)
+Cover design by [Liza Daly](https://lizadaly.com)
 
 [Lover's Eyes](https://www.metmuseum.org/art/collection/search/16606), a
 miniature on ivory c. 1840, artist unknown, courtesy the [Metropolitan
