@@ -18,7 +18,8 @@ cover-credit: |
   [Liza Daly](https://lizadaly.com)
 cover-source: |
   [Lover's Eyes](https://www.metmuseum.org/art/collection/search/16606), a miniature on ivory c. 1840,
-  artist unknown. Courtesy the [Metropolitan Museum of Art](https://www.metmuseum.org/).
+  artist unknown, courtesy the [Metropolitan Museum of Art](https://www.metmuseum.org/).
+  Background image from [the iceberg](https://www.flickr.com/photos/oliverdodd/8340214975/) by oliver.dodd.
 epub-file: arqtiq.epub
 description: |
   This puzzling novel, self-published in 1899, has an idiosyncratic, even ungrammatical

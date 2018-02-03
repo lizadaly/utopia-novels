@@ -16,8 +16,7 @@ Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/
 
 ## Book cover
 <img src="https://lizadaly.github.io/utopia-novels/books/moving-the-mountain/cover.png" height="300" align="right">
-by 
-[Liza Daly](https://lizadaly.com)
+Cover design by [Liza Daly](https://lizadaly.com)
 
 [Berneralpen vom Pilatus aus., Photochrom
 Zürich](https://www.rijksmuseum.nl/en/my/collections/141--mattie-boom/colormania/objecten#/RP-F-F01156-DJ,13)
