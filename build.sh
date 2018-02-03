@@ -25,11 +25,11 @@ for dir in books/*
 
     # Generate HTML version with appropriate paths
     $pandoc  -o $dir/$book.html $dir/book.md  --css ../../shared/web.css \
-      --template shared/pandoc-template.html --resource-path $dir:shared
+      --template shared/html-template.html --resource-path $dir:shared
 
     # Generate EPUB
     $pandoc -o $dir/$book.epub $dir/book.md --epub-embed-font=shared/fonts/* \
-      --css shared/epub.css --epub-cover-image $dir/cover.png
+      --css shared/epub.css --template shared/epub-template.html --epub-cover-image $dir/cover.png
 
     # Generate per-book README
     $pandoc -o $dir/README.md -V book=$book $dir/book.md --template shared/readme-template.md

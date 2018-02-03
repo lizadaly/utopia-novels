@@ -1,5 +1,5 @@
 % Unveiling a Parallel
-% Alice Ilgenfritz Jones and Ella Marchant
+% Alice Ilgenfritz Jones and Ella Merchant
 % 1893
 
 ---
@@ -13,16 +13,20 @@ identifier:
   text: uuid:93363812-84AA-4C66-B9E0-6E42F6D08051
 date: 1893
 rights: Public Domain
-#cover-image: cover.png
+cover-image: cover.png
 cover-credit: |
   [Liza Daly](https://lizadaly.com)
 epub-file: unveiling-a-parallel.epub
 description: |
-  TBD
+  Originally published anonymously as "Two Women of the West," this story
+  contains one of the first uses of the word "aeroplane" in English.
+  Alice Ilgenfritz Jones published other novels at the time; her
+  writing partner Ella Merchant (sometimes spelled Marchant) is less
+  known.
+
 ---
 
-Chapter 1. A REMARKABLE ACQUAINTANCE. {#Chapter_1}
--------------------------------------
+> Chapter 1. A Remarkable Acquaintance.
 
 > "A new person is to me always a great event, and
 > hinders me from sleep."
@@ -486,7 +490,7 @@ called Thursia, and there was a river flowing
 grounds, at the back of the house, sloped to it,---named the Gyro.
 
 
-# Chapter 2. A WOMAN. {#Chapter_2}
+# Chapter 2. A Woman.
 
 >"Her face so fair, as flesh it seemed not,
 But heavenly portrait of bright angels hew,
@@ -1149,7 +1153,7 @@ spoke of. At that time it was impossible for me to comprehend it, and I
 can only convey it to you in a complete account of my further
 experiences on that wonderful planet.
 
-# Chapter 3. THE AURORAS' ANNUAL. {#Chapter_3}
+# Chapter 3. The Aurora's Annual.
 
 It was winter, and snow was on the ground; white and sparkling, and as
 light as eider-down. Elodia kept a fine stable. Four magnificent white
@@ -1755,7 +1759,7 @@ highest and best ideals. And I thought of Elodia, sick upstairs from her
 last night's carousal, with contempt.
 
 
-# Chapter 4. ELODIA. {#Chapter_4}
+# Chapter 4. Elodia.
 
 > "If to her lot some female errors fall,
 Look to her face and you'll forget them all."
@@ -2129,7 +2133,7 @@ in this matter, as in all others, each generation acknowledges its
 obligation to the next."
 
 
-# Chapter 5. THE VAPORIZER. {#Chapter_5}
+# Chapter 5. The Vaporizer.
 
 > "Portable ecstasies ...
 corked up in a pint bottle."
@@ -2515,7 +2519,7 @@ could denounce it,---and more sweepingly, for she included male fighters
 in her condemnation, and I was unable to make her see that that was
 quite another matter.
 
-# Chapter 6. CUPID'S GARDENS. {#Chapter_6}
+# Chapter 6. Cupid's Gardens.
 
 > "O, in what sweets dost thou thy sins enclose."
 >
@@ -2982,7 +2986,7 @@ I made a skeptical rejoinder to the implication in his last sentence,
 for to me he seemed entirely devoid of evil; and we finished the drive
 in silence.
 
-# Chapter 7. NEW FRIENDS. {#Chapter_7}
+# Chapter 7. New Friends.
 
 > "Having established his equality with class after class, of those with
 > whom he would live well, he still finds certain others, before whom he
@@ -3159,7 +3163,7 @@ near future. And with that they left us, and left behind them matter for
 conversation for many a day.
 
 
-# Chapter 8. A TALK WITH ELODIA. {#Chapter_8}
+# Chapter 8. A Talk with Elodia.
 
 > "It behoveth us also to consider the nature of him that
 offendeth.
@@ -3842,7 +3846,7 @@ her face again. But the morning brought resurrection. How hard a thing
 it is to destroy love!
 
 
-# Chapter 9. JOURNEYING UPWARD. {#Chapter_9}
+# Chapter 9. Journeying Upward.
 
 > "The old order changeth, giving place to the new,
 And God fulfils himself in many ways."
@@ -4430,7 +4434,7 @@ message, from whence I know not,---or rather by what means I know
 not,---"A new commandment I give unto you, that ye love one another."
 
 
-# Chapter 10. THE MASTER. {#Chapter_10}
+# Chapter 10. The Master.
 
 > "I spoke as I saw.
 I report, as a man may report God's work---all's Love, yet all's Law."
@@ -4993,7 +4997,7 @@ frolic of music. When it was over, I went down stairs, with the others,
 humming an inaudible tune, as though I had been to the opera.
 
 
-# Chapter 11. A COMPARISON. {#Chapter_11}
+# Chapter 11. A Comparison.
 
 > "He who rests on what he is, has a destiny above
 destiny, and can make mouths at fortune."

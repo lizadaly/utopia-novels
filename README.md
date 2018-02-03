@@ -9,3 +9,4 @@ The current collection:
 * [Mizora: A Prophecy](books/mizora-a-prophecy/) by Mary E. Bradley (1889)
 * [Moving the Mountain](books/moving-the-mountain/) by Charlotte Perkins Gilman (1911)
 * [The Republic of the Future](books/republic-of-the-future/) by Anna Bowman Dodd (1887)
+* [Unveiling a Parallel](books/unveiling-a-parallel/) by Alice Ilgenfritz Jones and Ella Merchant (1893)
