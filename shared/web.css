@@ -9,8 +9,10 @@ a:hover {
   color: gray;
 }
 .book {
-  width: 60vw;
   margin: auto;
+}
+.book .col {
+  width: 60vw;
 }
 .jumbotron {
   min-height: 500px;
@@ -66,7 +68,7 @@ h6 {
 
 .book h2 {
   margin: .25em;
-  text-align: center
+  text-align: center;
 }
 
 .book h3 {

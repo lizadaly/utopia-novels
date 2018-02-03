@@ -14,6 +14,8 @@ A small collection of 19th/20th century utopian fiction.
 
 This collection was part of the research material for the interactive fiction story, [Harmonia](https://github.com/lizadaly/harmonia).
 
+Contributions, corrections, and proofed new editions are very welcome; please issue a <a href="https://opensource.guide/how-to-contribute/">pull request</a>. 
+
 The current collection:
 END
 
