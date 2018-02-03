@@ -15,7 +15,7 @@ Read [The Republic of the Future](https://lizadaly.github.io/utopia-novels/books
 Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/republic-of-the-future/republic-of-the-future.epub).
 
   ## Book cover
-  <img src="https://lizadaly.github.io/utopia-novels/books/republic-of-the-future/cover.png" width="400">
+  <img src="https://lizadaly.github.io/utopia-novels/books/republic-of-the-future/cover.png" height="400" align="right" >
     Book cover by [Liza Daly](https://lizadaly.com).
   
     [Broadway and 42nd

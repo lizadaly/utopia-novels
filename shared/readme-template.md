@@ -12,7 +12,7 @@ Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/
 
 $if(cover-image)$
   ## Book cover
-  <img src="https://lizadaly.github.io/utopia-novels/books/$book$/cover.png" width="400">
+  <img src="https://lizadaly.github.io/utopia-novels/books/$book$/cover.png" height="400" align="right" >
   $if(cover-credit)$
   Book cover by $cover-credit$.
   $endif$

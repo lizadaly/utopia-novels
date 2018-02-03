@@ -11,7 +11,7 @@ Read [Arqtiq](https://lizadaly.github.io/utopia-novels/books/arqtiq/arqtiq.html)
 Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/arqtiq/arqtiq.epub).
 
   ## Book cover
-  <img src="https://lizadaly.github.io/utopia-novels/books/arqtiq/cover.png" width="400">
+  <img src="https://lizadaly.github.io/utopia-novels/books/arqtiq/cover.png" height="400" align="right" >
     Book cover by [Liza Daly](https://lizadaly.com).
   
     [Lover's Eyes](https://www.metmuseum.org/art/collection/search/16606), a
