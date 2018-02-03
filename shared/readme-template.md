@@ -16,7 +16,7 @@ $if(cover-image)$
 $endif$
 
 $if(cover-credit)$
-$cover-credit$
+Cover design by $cover-credit$
 $endif$
 
 $if(cover-source)$
