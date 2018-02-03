@@ -14,8 +14,7 @@ $if(cover-image)$
 ## Book cover
 <img src="https://lizadaly.github.io/utopia-novels/books/$book$/cover.png" height="300" align="right">
 $if(cover-credit)$
-by 
-$cover-credit$
+Cover design by $cover-credit$
 $endif$
 
 $if(cover-source)$
