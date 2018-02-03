@@ -18,6 +18,6 @@ Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/
 
 ## Book cover
 <img src="https://lizadaly.github.io/utopia-novels/books/mizora-a-prophecy/cover.png" height="300" align="right">
-Cover design by [Liza Daly](https://lizadaly.com)
 
+[Liza Daly](https://lizadaly.com)
 
