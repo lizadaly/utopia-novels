@@ -14,11 +14,11 @@ Read [The Republic of the Future](https://lizadaly.github.io/utopia-novels/books
 
 Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/republic-of-the-future/republic-of-the-future.epub).
 
-  ## Book cover
-  <img src="https://lizadaly.github.io/utopia-novels/books/republic-of-the-future/cover.png" height="400" align="right" >
-    Book cover by [Liza Daly](https://lizadaly.com).
-  
-    [Broadway and 42nd
-  Street](https://www.metmuseum.org/art/collection/search/11029?sortBy=Relevance&when=A.D.+1900-present&what=Paintings&ao=on&ft=%22new+york%22&offset=0&rpp=100&pos=29)
-  by Childe Hassam (1902) courtesy The Metropolitan Museum of Art.
-  
+## Book cover
+<img src="https://lizadaly.github.io/utopia-novels/books/republic-of-the-future/cover.png" height="300" align="right">
+Book cover by [Liza Daly](https://lizadaly.com).
+
+[Broadway and 42nd
+Street](https://www.metmuseum.org/art/collection/search/11029?sortBy=Relevance&when=A.D.+1900-present&what=Paintings&ao=on&ft=%22new+york%22&offset=0&rpp=100&pos=29)
+by Childe Hassam (1902) courtesy The Metropolitan Museum of Art.
+
