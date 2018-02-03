@@ -53,6 +53,12 @@ p {
   text-indent: 1em;
   margin: .5em;
 }
+
 blockquote p {
+  text-align: left;
   text-indent: 0;
+  font-style: italic;
+  padding-left: 2em;
+  max-width: 90%;
+  margin: 2em 0;
 }

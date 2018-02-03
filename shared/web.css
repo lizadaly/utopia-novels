@@ -14,6 +14,8 @@ a:hover {
 }
 .jumbotron {
   min-height: 500px;
+  max-width: 1000px;
+  margin: auto;
 }
 figure {
   margin-left: 2em;
@@ -72,9 +74,17 @@ h6 {
   text-align: center;
 }
 
-blockquote p {
+.book blockquote p {
   text-align: left;
+  text-indent: 0;
+  font-style: italic;
+  padding-left: 2em;
+  font-size: 0.85em;
+  line-height: 1.7em;
+  max-width: 90%;
+  margin: 2em 0;
 }
+
 .book p {
   line-height: 1.6em;
   text-indent: 1em;
