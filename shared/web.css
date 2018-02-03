@@ -10,9 +10,10 @@ a:hover {
 }
 .book {
   margin: auto;
+  width: 60vw;
 }
 .book .col {
-  width: 60vw;
+
 }
 .jumbotron {
   min-height: 500px;
