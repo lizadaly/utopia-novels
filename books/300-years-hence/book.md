@@ -2518,15 +2518,10 @@ become of them, are they still a distinct people?”
 “I am sorry you ask that question,—for it is one on which I do not
 like to converse—but
 
- {.stanza}
-‘The Indians have departed—gone is their hunting ground,
-
+>‘The Indians have departed—gone is their hunting ground,
 And the twanging of their bow-string is a forgotten sound.
-
 Where dwelleth yesterday—and where is echo’s cell?
-
 Where hath the rainbow vanished—there doth the Indian dwell!’
-
 
 “When our own minds were sufficiently enlightened, when our hearts were
 sufficiently inspired by the humane principles of the Christian

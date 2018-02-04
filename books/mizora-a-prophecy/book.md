@@ -1,5 +1,5 @@
 % Mizora: A Prophecy
-% Mary E. Bradley
+% Mary E. Bradley Lane
 % 1889
 
 ---
@@ -4773,34 +4773,12 @@ owe eternal gratitude and homage?”
 in that mellow, musical voice that was sweeter than the chanting of
 birds, she exclaimed:
 
-::: {.poem}
-::: {.stanza}
-<div>
-
-“This vast cathedral, boundless as our wonder;
-
-</div>
-
-::: {.i1}
-Whose shining lamps yon brilliant
-mists# [\[A\]](#Footnote_A_1){.fnanchor} supply;
-:::
-
-<div>
-
+> “This vast cathedral, boundless as our wonder;
+Whose shining lamps yon brilliant mists supply;
 Its choir the winds, and waves; its organ thunder;
-
-</div>
-
-::: {.i1}
 Its dome the sky.”
-:::
-:::
-:::
 
-::: {.footnote}
-# ](#FNanchor_A_1) Aurora Borealis
-:::
+# Aurora Borealis
 
 “Do you worship Nature?” I asked.
 
@@ -5048,132 +5026,28 @@ beautiful that compels the Mizora mind to mingle it with every incident
 of life. The melody sounded like a chorus of birds chanting, in perfect
 unison, a weird requiem over some dead companion.
 
-::: {.poem}
-::: {.stanza}
-::: {.i10}
-DIRGE
-:::
-:::
-
-::: {.stanza}
-<div>
-
+> DIRGE
 She came like the Spring in its gladness
-
-</div>
-
-<div>
-
 We received her with joy—we rejoiced in her promise
-
-</div>
-
-<div>
-
 Sweet was her song as the bird’s,
-
-</div>
-
-<div>
-
 Her smile was as dew to the thirsty rose.
-
-</div>
-
-
-
-<div>
-
 But the end came ere morning awakened,
-
-</div>
-
-<div>
-
 While Dawn yet blushed in its bridal veil,
-
-</div>
-
-<div>
-
 The leafy music of the woods was hushed in snowy shrouds.
-
-</div>
-
-<div>
-
 Spring withered with the perfume in her hands;
-
-</div>
-
-<div>
-
 A winter sleet has fallen upon the buds of June;
-
-</div>
-
-<div>
-
 The ice-winds blow where yesterday zephyrs disported:
-
-</div>
-
-<div>
-
 Life is not consummated
-
-</div>
-
-<div>
-
 The rose has not blossomed, the fruit has perished in the flower,
-
-</div>
-
-<div>
-
 The bird lies frozen under its mother’s breast
-
-</div>
-
-<div>
-
 Youth sleeps in round loveliness when age should lie withered and weary,
 and full of honor.
-
-</div>
-
-<div>
-
 Then the grave would be welcome, and our tears would fall not.
-
-</div>
-
-<div>
-
 The grave is not for the roses of youth;
-
-</div>
-
-<div>
-
 We mourn the early departed.
-
-</div>
-
-<div>
-
 Youth sleeps without dreams---
-
-</div>
-
-<div>
-
 Without an awakening.
 
-</div>
-:::
-:::
 
 At the close of the chant, the mother first and then each sister took
 from her bosom the white rosebud and dropped it into the grave. Then
@@ -5302,52 +5176,15 @@ death.”
 “Repeat what you remember of it,” urged Wauna.
 
 
-
-::: {.poem}
-::: {.stanza}
-<div>
-
-“That face and form, have long since gone
-
-</div>
-
-::: {.i1}
+> “That face and form, have long since gone
 Beyond where the day was lifted:
-:::
-
-<div>
-
 But the beckoning song still lingers on,
-
-</div>
-
-::: {.i1}
 An angels earthward drifted.
-:::
-:::
-
-::: {.stanza}
-<div>
-
 And when death’s waters, around me roar
-
-</div>
-
-::: {.i1}
 And cares, like the birds, are winging:
-:::
-
-<div>
-
 If I steer my bark to Heaven’s shore
-
-</div>
-
-::: {.i1}
 ‘Twill be by an angel’s singing.”
-:::
-:::
-:::
+
 
 “Poor child of superstition,” said Wauna, sadly. “Your belief has
 something pretty in it, but for your own welfare, and that of your

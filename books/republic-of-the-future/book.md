@@ -20,7 +20,7 @@ cover-source: |
   [Broadway and 42nd Street](https://www.metmuseum.org/art/collection/search/11029?sortBy=Relevance&amp;when=A.D.+1900-present&amp;what=Paintings&amp;ao=on&amp;ft=%22new+york%22&amp;offset=0&amp;rpp=100&amp;pos=29) by Childe Hassam (1902) courtesy The Metropolitan Museum of Art.
 epub-file: republic-of-the-future.epub
 description: |
-  _The Republic of the Future: or, Socialism a Reality_ is a novella by the American writer [Anna Bowman Dodd](https://en.wikipedia.org/wiki/Anna_Bowman_Dodd), first published in 1887. The book is a dystopia written in response the utopian literature, though published a year
+  _The Republic of the Future: or, Socialism a Reality_ is a novella by the American writer [Anna Bowman Dodd](https://en.wikipedia.org/wiki/Anna_Bowman_Dodd), first published in 1887. The book is a dystopia written in response to utopian literature, though published a year
   before the appearance of [Edward Bellamy's](https://en.wikipedia.org/wiki/Edward_Bellamy) [Looking Backward](https://en.wikipedia.org/wiki/Looking_Backward) (1888).
 ---
 
@@ -1483,10 +1483,10 @@ homeliness).
 
 “There is one thing I can not become
 accustomed to,” I said not wishing to be called to
-closer account for my impressions,” and that is
+closer account for my impressions, ”and that is
 that there are no church steeples or spires. The
 absence of them gives such a uniform look to
-all your cities.
+all your cities."
 
 
 “Churches? Oh, they went out long ago,
@@ -1513,7 +1513,7 @@ Ethical Temples, where all the religions are
 explained and where the philosophy of ethics is
 taught the people. The finest of all these
 temples is the Temple of the Liberators; have
-you seen it yet? "—she asked.
+you seen it yet?" she asked.
 
 
 “I have not, but I should like to do so. WilI
@@ -1535,7 +1535,7 @@ anarchists, and socialists who endured
 persecution and often death in the early days of
 socialism. A book I noticed was placed near
 the Henry George statue. It was the
-socialistic bible " Poverty and Progress” which
+socialistic bible "Poverty and Progress” which
 with a number of other such books forms the
 chief literature of the people. Once a year,
 my young friend told me, there is a sacred
@@ -1545,7 +1545,7 @@ reading to the people from this book.
 As we turned to pursue our way homeward
 she again began to question me—“But you
 haven’t told me yet what you think of
-usas a country and a people,” she persisted.
+us as a country and a people,” she persisted.
 
 
 “Well, since you will have it I will tell you.

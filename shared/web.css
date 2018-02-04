@@ -89,7 +89,14 @@ h6 {
 }
 
 .book p {
-  line-height: 1.6em;
+  line-height: 1.7em;
   text-indent: 1em;
   margin: 1em 0;
+}
+
+footer {
+  background: rgb(200,200,200);
+  text-align: center;
+  padding: 1rem;
+  font-size: smaller;
 }

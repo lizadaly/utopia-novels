@@ -1,5 +1,5 @@
 # Mizora: A Prophecy
-## By Mary E. Bradley
+## By Mary E. Bradley Lane
 ### Published (1889)
 
   The full title is: *Mizora: A Prophecy: A Mss. Found Among the Private
