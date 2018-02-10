@@ -43,7 +43,7 @@ is inflatable to strong wings or wide sails. Its wheels
 are wide rimmed, to glide over snow, and paneled for
 water paddles. When it is finished and stored I select
 some friends to accompany me. My most personal loved
-ones. A volatile fair-haired gent— my husband, and a
+ones. A volatile fair-haired gent—my husband, and a
 fair-haired little maiden friend, sit on the front seat. On
 the back seat are sitting my aged father and myself, our
 black eyes snapping with expectation.
@@ -63,7 +63,7 @@ bring you home a little bear,” makes us laugh.
 
 “I will be glad to get you for my little bear.”
 
-“All the rest of us,” I answered, “will take car
+“All the rest of us,” I answered, “will take care
 of her.”
 
 ”No doubt,” she replies, “ as far as you go in your
@@ -95,7 +95,7 @@ branch?” I suggest.
 We now become aware that a train is approaching
 on the single track that is hanging over the grade on the
 canyon side. We have no choice but to unfurl our
-■wings and rise in the air, as the engineer wildly blows
+wings and rise in the air, as the engineer wildly blows
 his whistle. Brushing the pine tree tops, we cross over
 the peak and seek the track on the other side of it,
 selecting an opening in a thicket for that purpose.
@@ -111,10 +111,10 @@ This feat, so skillfully accomplished, denotes an
 expert hand in our motorman, who had been practicing
 faithfully, as a bird to fly, a swimmer or cyclist. As
 exhilarant to him as to us, and much lessened our
-distance, causes Mae to clap her hands and ask, “ Why not
+distance, causes Mae to clap her hands and ask, “Why not
 fly all the time?”
 
-We want to save that force until we have more
+“We want to save that force until we have more
 serious need,” Charley replies. “I hope that poor boy
 who fell over the log while eating his breakfast and ran
 away, will recover and go back,” makes us all laugh
@@ -126,7 +126,7 @@ by the miners, saved us from a serious mishap. To have
 rolled to the Canyon River would have damaged us
 greatly. As it is we cannot recover the track without
 that descent. So we twist our car upright (we are
-fastened in our seats) } square it to the hill and down
+fastened in our seats), square it to the hill and down
 we go, losing our breath as we plump splashing into the
 water.
 
@@ -167,10 +167,10 @@ Mae emits a long whistle, as a red-breasted linnet—the
 first—flies close to us to get our sweet food company
 then sings, to earn it and call its family.
 
-The chapparal is faintly green. But the manzanita—
-sung of poets, or ought to be—in its immaculate green leaves adorning
+The chapparal is faintly green. But the manzanita—sung of poets,
+or ought to be—in its immaculate green leaves adorning
 the winter, with red stems of eternal beauty, is covered with pink waxen sprays, as
-fragrant, as it is like, the lily of the valley, A momentary
+fragrant, as it is like, the lily of the valley. A momentary
 regret comes to leave in California this worshipped
 shrub. Its blossoms develop to little green-apple fruit,
 the size of peas, of edible flavor. Manzanita is the
@@ -192,13 +192,13 @@ continual lawns, social halls and grand hotels for the
 floating population, this last much improved by the
 efforts of the Salvation Army, who have charmed the
 crowed to good behavior as they enjoy appreciatively
-their sweet-voiced pleadings,
+their sweet-voiced pleadings.
 
 I look out at the country, dotted with quartz-mill
 chimneys, with their heavy roar, as the heavy stamp
 crushes the granite to free the gold imprisoned in their
 bastile. To all we bid good-bye, as we turn Cape Horn,
-and though still among the clouds, we see and "hear the
+and though still among the clouds, we see and hear the
 rushing river below. As all streams here are given to
 chatty hilarity, I think once more of the one where oft I
 have walked on trailed path.
@@ -206,12 +206,12 @@ have walked on trailed path.
 I muse on until in time we salute the desert plain,
 with its sage brush and dog cities. Stations are not
 hailed by us (as in time a small crowd awaits us).
-Silently we appear ; like a shadow disappear.
+Silently we appear; like a shadow disappear.
 
 Our seats are so constructed that we can stand and
 exercise, rock or lie down at ease. Partaking our meals
 without alighting, we have no occasion to lose time.
-Our casing open, banners .flying. I have brought
+Our casing open, banners flying. I have brought
 handwork and books. Father is carving on some queer rotary
 wheel that gives three separate motions. Charley and
 Mae, on the seat in front, amuse each other and call us
@@ -268,7 +268,7 @@ until the sea is red, when suddenly the cavalry swords
 fly, disappearing in the distance.
 
 The victorious artillery, the whales, blow
-themselves, weariedly. We go closer to them—-too close—-as
+themselves, weariedly. We go closer to them—too close—as
 they are a warrior band. A big general opens his
 mouth towards us, disconcerting to our stomachs; we
 beat a hasty retreat to a safe distance, where we watch
@@ -375,7 +375,7 @@ find a table formation, level graded, an unmistakable
 sign of ice-locked land, as if an island included in the
 cold grasp that holds the sea. We do not go far, when
 a pile of ice rocks hem in a space. We proceed to
-inspect, Hastily curving by, we are suddenly brushed by
+inspect. Hastily curving by, we are suddenly brushed by
 a bush, and berries rattle lusciously on our window-pane.
 Flinging it open a balmy air salutes us, forcing us out
 upon a bright-hued snow-flower carpet.
@@ -385,11 +385,11 @@ no cold night to delay matters!” as Charley is about to
 cram his mouth. But I, on closely examining, fail to
 identify them, and jot in my book a new name,
 Onigogies.” He looks over to read. “Gogies, gogies,
-gorge us, please. ”
+gorge us, please.”
 
 “Tu whu a whu,” wavers our brains and quivers
 our eyes, as we see a great white owl perched on our
-banner, blinking. I see near by an apple vine. I reach
+banner, blinking. I see nearby an apple vine. I reach
 out and take a most beautiful red specimen, before I
 am aware that it is already in the mouth of a serpent,
 coiled around the twig. Unconsciously an Eve, as
@@ -438,7 +438,7 @@ anticipate a view as of masts arising at sea, but instead, we
 are shocked to see the flame-hued settle densely in a
 fog. So long our friend, its warmth had melted the
 congealed air and now clouds our nautical bearings. Our
-compass is our sole northly guide. But what — what is
+compass is our sole northly guide. But what—what is
 the matter with it that it hangs its head and stops? We
 are lost!
 
@@ -458,7 +458,7 @@ valley below us. Not long, but a round level plain, girdled
 by this ring of bergs that hem it in.
 
 Our pained eyes watch father stolidly take our local
-bearings, then with him shout in audible voice : “The
+bearings, then with him shout in audible voice: “The
 North Pole!”
 
 # * * * *
@@ -508,7 +508,7 @@ suddenly arise to so sudden height! I fall forward and
 cover my eyes, to keep my brain intact. The city at
 last. City of Zion! Sung of poets and portrayed of
 artists inspired of its contour and elysian beauty. Hope
-raises a hosanna in ray breast that is chorused around
+raises a hosanna in my breast that is chorused around
 me, where I now give my attention.
 
 The human presence below, with feather-plume
@@ -534,7 +534,7 @@ many now being mounted by the throng. Robes are
 drawn about us, after we are presented to a lady, also in
 his charge, who, with less success, attempts the words
 he first used. Feeling quite among friends, as he lifts a
-feather- tufted guiding wand resting on the bird’s head,
+feather-tufted guiding wand resting on the bird’s head,
 I turn to the lady by my side, whose first glance, as
 though in bitterness, before our arrival, has changed to
 liveliest sociability in gestures, nods and smiles upon
@@ -568,7 +568,7 @@ inquired.
 to find his own city."
 
 Alighting, we are led through conservatory halls to
-an apartment like hall. Of great magnificence, it is yet
+an apartment-like hall. Of great magnificence, it is yet
 quite homelike, with great cushions strewn about that
 are seats for the great people but beds in size for us. I
 fall on one and am soon fast asleep. Awaking partially,
@@ -598,7 +598,7 @@ piled in little fruit cups. One is put in each our mouths,
 cup and all. I taste and find it palatable. Our
 appetites satisfied, out wheels the table, making Mae smile
 and become merry. Seeing us still high perched, our
-jolly friends rally around us,, pull our toes and pinch our
+jolly friends rally around us, pull our toes and pinch our
 cheeks, until I wish I had refrained in initiating this
 program. Soon in comes a hassock and wheeling to us,
 gives us an opportunity to alight. Mae down last,
@@ -645,7 +645,7 @@ when we move swiftly along as on a track.
 Mae asks ingenuously her bearer’s name; he gives
 it in Arc language, what sounds to us like “Show Off,"
 which we shall now call him. Then looking to my
-bearer he says : “She is Aunt Robet, a dear old maid,
+bearer he says: “She is Aunt Robet, a dear old maid,
 who is always taking care of us, papa and I, when
 mother is away.” He goes over and squeezes her
 shoulders. As father innocently sticks a pin into his
@@ -690,7 +690,7 @@ therefore, the order of the day.” Hence this little
 exercise. I was happy to have amused her.
 
 We ride now leisurely home, viewing the heavy
-buildings of great blocks of ice, shining in the sunlight,
+buildings of great blocks of ice, shining in the sunlight.
 Why they do not melt I cannot tell. Afterwards I learn
 they are covered with an enamel that preserves them.
 The picturing on their sides is done by fracturing; the
@@ -721,9 +721,9 @@ convert us.” Science is his religion.
 > — Goethe.
 
 Waking early, my prayer goes up to God, with
-ray whole consciousness borne intact. So when we miss
+my whole consciousness borne intact. So when we miss
 a link in our self-calculated program of events, we look
-to Him, the holder of the links of us — his marionettes
+to Him, the holder of the links of us—his marionettes
 below.
 
 Charley rushes in with a bundle. I speak: “Are
