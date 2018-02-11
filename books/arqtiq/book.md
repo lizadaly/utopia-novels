@@ -871,12 +871,11 @@ in wonder and gracious deference.
 "We are Americans, I want you to know. Have you a president?"
 
 He looks wistfully at us, to brighten soon and ask:
-“Do you mean your God? My mother is goddess this.
-year. Aunt Robet takes her place when she is away visiting.
+“Do you mean your God? My mother is goddess this
+year. Aunt Robet takes her place when she is away visiting."
 
 I study out the whole problem. This wayside
-sitting-room is a courthouse, a saloon-the latter purified--
-and a church in one. I am quite converted and wish
+sitting-room is a courthouse, a saloon-the latter purified-and a church in one. I am quite converted and wish
 ours at home would become the same, but Charley, who
 is still by my side, impatiently waiting to get my full
 attention, remarks, jokingly: “Little folks should keep
@@ -889,18 +888,18 @@ evasively.
 “But this palace occupies some distance; you will
 have to look farther for a church, if there is one at all.
 Wait until you are better acquainted, but to-night we
-will attend the masque, meditatively.
+will attend the masque," meditatively.
 
 “Masque? What can you imagine to be that home
 dissipation in this cold and pure, and pure as cold city;
 certainly less advanced, I hope, less perverted section of
 the earth. But that it is Sunday I would accompany
-you to investigate for missionary purposes, I reply
+you to investigate for missionary purposes," I reply
 devoutly.
 
 “Well, it will last a week; there is no hurry," as
 he leaves me free to muse. So utterly definite in
-dissimilarity are all things here— arts, amusements, devotions,
+dissimilarity are all things here—arts, amusements, devotions,
 etc. I do not expect to encounter social dangers in
 similar guise, but must guard as conscientiously from
 evil under new guise. Show Off, our attending friend,
@@ -908,7 +907,7 @@ does make so remarkable blunders in his attempt to
 apply our cultured phrases, I quite despair to get out of
 him by question what I wish to know. I reflect deeply,
 what can their church be? Can it be in happy unison,
-as is this human social church — to wit, parlor?
+as is this human social church—to wit, parlor?
 
 Presently I recollect that here is but one city, one
 people. Allowing one church to be feasible, what about
@@ -949,7 +948,7 @@ church building.”
 I look prayerfully to him and say, regretfully, “But
 you don’t believe Jesus is coming back.”
 
-“Yes, I do,” he replies. _Then_ is He coming. For
+“Yes, I do,” he replies. "_Then_ is He coming. For
 this is He waiting. Peace on earth, among the churches.
 Upon the cross His arms were spread. To reach around
 the earth, to join all churches in peace, which is
@@ -974,7 +973,7 @@ following, I charmingly ask Show Off, who now appears,
 
 “Always, with Gods as relief.”
 
-“You mean ministers — but does nobody work?”
+“You mean ministers—but does nobody work?”
 
 “Yes; at the schools until noon.”
 
@@ -1072,7 +1071,7 @@ snow that has been let below in covered trenches.
 Charley is going to pompously interview me.
 
 “You are not so dreadfully horrified, I see. There
-are. you see, different grades of parties. At this you
+are, you see, different grades of parties. At this you
 were intellectually amused and society edified. I wonder
 this people do not drink. I must teach them the
 drinking of wine blood,” slightly wavering.
@@ -1093,7 +1092,7 @@ He is so autocratic in his manly assertions I
 become slightly overawed, when Show Off, who has had
 no lesson of him to regard his dignity, comes up and
 snaps his ear playfully. The fire darts from his eye, but
-I quickly make peace, using his own words: “ You see,
+I quickly make peace, using his own words: “You see,
 it is all right; do not be odd.”
 
 Thus quickly, everywhere, wrath arises innocently,
@@ -1125,7 +1124,7 @@ ride about on a star?”
 I look warily each side of me. “When is he
 coming down?"
 
-When the signs are right. We expected him at
+"When the signs are right. We expected him at
 the Outing; since then we are unhappy.”
 
 In this lovable manner does he couple himself with
@@ -1148,7 +1147,7 @@ or talk something. I wonder if they take up a
 collection. If not, the tax supports it.”
 
 “I do not believe they know what money is, though
-certainly they do its equivalent--work. We must find
+certainly they do its equivalent-work. We must find
 the shops and select some work ourselves.”
 
 Then, as Saucy mutters to herself, “What a queer
@@ -1275,7 +1274,7 @@ become engrossed, as a “sister” plays a cameo-mandolin;
 another singing a rollicking song of the sea, ending in
 sobs, for those who come down in ships.
 
-There is sea-dancing — liquid symphony. I see Charley
+There is sea-dancing—liquid symphony. I see Charley
 in his native element, precluding tears or weeping for joy.
 
 We round out on a tower top, and board a nautilus
@@ -1376,7 +1375,7 @@ doctrine to test his lore.
 # * * * *
 
 > Immortality of the soul is an universal instinct. \
-> -Phil. S chaff, D. D.
+> -Phil. Schaff, D. D.
 
 Looking to where he sits, I study one in my mind,
 and observe father sees my abstraction. I can tell by a
@@ -1568,7 +1567,7 @@ sobs up to a face, thinking deeply. “Cholly,” coaxing,
 
 A jerk of the shoulder straightens up the head, and
 sobers the grotesque grief of its face. “No, you do not
-know her. She is smart, I allow, but not so ^mart as
+know her. She is smart, I allow, but not so smart as
 she thinks.” (I feel so funny as I listen). “She is weak
 yet from her illness is all.”
 
@@ -1617,7 +1616,7 @@ I look to the leaf. A new impress is coming. Behind
 her as she is backing unconsciously toward it, is an open
 crevasse trench in use by a workman. I startle the air
 with a scream to Savant, “Call me,” says Charley
-authoritatively, who looks on the plate, to call Savan
+authoritatively, who looks on the plate, to call Savant
 himself. The latter seeing the dilemma, without
 leaving his laboratory, touches a button that closes the
 crevasse behind Mae, as she steps on it safely. I hug
@@ -1743,7 +1742,7 @@ making the trip. As it is a gala day, called Inning Day, so
 everybody is out. “Will everybody be at Roban’s?” I
 ask Show Off, who is holding Saucy by my side.
 
-“Yes, and more too, for the Traveler will be there,
+“Yes, and more too, for the Traveler will be there,"
 he replies moodily.
 
 “Who is he, and where does he travel?”
@@ -1901,7 +1900,7 @@ the people arrange themselves in cavalcade, and slowly
 march, with spiral inclination, around the hall, towards
 its center.
 
-Robet, supported by her lover, pulls me out ox her
+Robet, supported by her lover, pulls me out of her
 bag to amuse him, much to my ill-will. But father
 winks to me over his head, and pulls his hair. Nearing
 the center of the room, the Traveler firmly and (I see
@@ -1924,7 +1923,7 @@ I take a great like to Rohan, who is as friendly as
 vivacious. I get upon her lap to hear her chat.
 
 “Good-bye,” she says, “my upper sky home, for the
-winter. My plant stand you may rest until spring (outing
+winter. My plant stand you may rest until spring" (outing
 as she calls it).
 
 I am mystified why the people stop to sit here, as there
@@ -2064,7 +2063,7 @@ again. ”
 While dropping in the incline I commenced a study of
 the triplet sisters. Observing them distinct in style with
 the river people (of whom they are, and are now to visit
-their parents, Robet has said(, I will describe them.
+their parents, Robet has said), I will describe them.
 
 Tall and sinuous from a constant looking up to the
 sky. A changeable coloring or iridescence enhances
@@ -2080,7 +2079,7 @@ not on us others.
 Rohan and Roba are on each side getting acquainted.
 
 To start conversation instructive to myself I ask the
-gracious ladies; “How was it before the country w r as
+gracious ladies; “How was it before the country was
 dyked into a river?”
 
 “We were not born then. Our father was contractor
@@ -2152,7 +2151,7 @@ draw to shore and alight upon a wharf of lily pads.
 
 The sun passes on ahead having kept such even pace
 with us all day that it had appeared to be standing still
-in the sky. The heat had called for our light dress.
+in the sky. The heat had called for our light dress,
 morrow it will be in lower horizon.
 
 We have arrived in a city that is like the people, tall
@@ -2239,7 +2238,7 @@ Imagining she is laughing at me I brace up to great
 bravery, asking, “Can I ride, too?”
 
 “Yes, we will go down, look out;” the latter in
-reference to the chair upon which I sit— one of a row of seats
+reference to the chair upon which I sit—one of a row of seats
 around the tower edge, facing outward. I look quite
 curiously and assure myself its rails are in front as on
 each side of me, inclosing me quite secure. Connecting
@@ -2249,7 +2248,7 @@ forwards, still more. I hold quite fast. My head is now
 where my heels have been. This is not all; increasing
 the velocity we complete the revolution, and repeat it to
 the foot of the tower, where I come standing, red with
-vexation (the idea of a lady of ray age rolling down the
+vexation (the idea of a lady of my age rolling down the
 side of a house), my temperate zone stomach quite upset.
 
 But “click” at the top. There is Roba in similar
@@ -2294,7 +2293,6 @@ My attention is called to my side by a mysterious self-satisfied
 lisp. I turn to see Charley who is taking notes for future lectures. I
 look over to get the train of ideas. What do I see--"How lions dance
 in our country; machines put in their mouths, they sing."
-machines put in their mouths, they
 
 "O Charley, what a drop. I had counted on your wonderful conversion,
 and here you are improvising wonders."
@@ -2573,7 +2571,7 @@ place we shall visit first.
 
 “O, no matter.”
 
-“A library? ”
+“A library?”
 
 “Very well.”
 
@@ -2581,7 +2579,7 @@ She connects our chairs securely, as did Robet, and
 presses them to motion, without saying as did Robet,
 “look out.”
 
-We are moving — how, _how_? Her “look out,” had
+We are moving—how, _how_? Her “look out,” had
 she said it, would have helped one less than Rohet’s.
 For this is worse—so much more worse.
 
@@ -2657,7 +2655,7 @@ I raise it, when the string sways out from the tree,
 free from aught else but the sky.
 
 I feel in my hand a signal, which I recognize. By my
-knowledge of Arc as a “hello,'’ which I answer back.
+knowledge of Arc as a “hello," which I answer back.
 Then comes a communication:
 
 “I am away up in the sky. Who are you?"
@@ -2681,7 +2679,7 @@ of her voice. O, clouds, speak again.”
 But it is fine up here. I go like light. Thoughts cannot
 travel faster.”
 
-“My darling is like. a spirit of air for speed.”
+“My darling is like a spirit of air for speed.”
 
 “I will speed to you, dear.”
 
@@ -2702,7 +2700,7 @@ The button darts upward.
 Robet—I say in my mind—weep not. There are fairies around.
 I look up to see Show Off in front of me.
 
-"What, he says “come to school?"
+"What", he says “come to school?"
 
 “Yes,” I answer vaguely, seeing no sign of such institution.
 
@@ -2765,7 +2763,7 @@ friendly.”
 “O, Grandpa has been civilizing him, so I have asked
 him to the wedding.”
 
-“How is that? ”
+“How is that?”
 
 “Serpenta is his niece, so he might as well come and
 be reconciled. Won’t there be an explosive,” she adds
@@ -2978,8 +2976,7 @@ shake my finger.
 “You earned it, to be a President. You tried to cut a
 great country in two; deluging it in blood.”
 
-In my electric state I see the root of the real cause —
-ambition of earthly state. The root of evil that grew to
+In my electric state I see the root of the real cause—ambition of earthly state. The root of evil that grew to
 a tree of distrust of brother to brother. Each aroused in
 strength of pride to combat of their separate interests.
 
@@ -3147,8 +3144,8 @@ surprised to find it an inspiration of interest only.
 I look to get their knowledge of the phenomena. For
 its solution I have left home and risked my life. That they
 fear it not, is evident. Instead they love and reverence its
-benefaction to them —lighting and warming their homes
-all winter; their winter daylight—-as Roban said, in their
+benefaction to them—lighting and warming their homes
+all winter; their winter daylight-as Roban said, in their
 interior winter quarters. Unusually quiet this season so
 far, but this is to outdo all, make up for lost time,
 unprecedented in grandeur. That they understand it I am
@@ -3167,11 +3164,11 @@ aurora—our beautiful mother in the earth—who gathers
 us each winter around her fireside to comfort us in its
 warm beams.
 
-“What is aurora?"
+“What is aurora?
 
 “Yearly we ask this question. None have answered
 us. We yearly invite our subjects to explore her
-confines, whence she lights her beacon. We invite now.”
+confines, whence she lights her beacon. We invite now.
 
 “Who will descend the Glory Hall to pay devoirs to
 the country’s goddess.”
@@ -3230,7 +3227,7 @@ harden our nerves. Left alone, click, the floor beneath
 is loosening, revolving, opening, black darkness ensues,
 then lights glimmer around; bells, whistles and
 reverberations fill all the air with din, followed by melody so low
-as scarcely to be heard — the music of the spheres.
+as scarcely to be heard—the music of the spheres.
 
 This has taken days, as it has been necessary to repeat
 each lesson, over and over. Quite unnecessary, I think,
@@ -3276,8 +3273,7 @@ objects, is but following out the line, struck by the first
 keynote.
 
 In comparison with the present indefinite theory, this
-illustration far exceeds it in practical demonstration--
-ever satisfactory to truthful students.
+illustration far exceeds it in practical demonstration-ever satisfactory to truthful students.
 
 Shelly in the time of Byron voiced this promise of the
 Arctics.
@@ -3310,8 +3306,8 @@ is demonstrative of their better understanding. If
 Savant knew what was to happen, I cannot say, for I
 cannot speak to him, nor he to me, nor see each other’s
 faces. I am alone with the problem I have put myself
-m. My old statue sense upholds me. I lean on it as I
-place straight the lines of new knowledge— that the moon
+in. My old statue sense upholds me. I lean on it as I
+place straight the lines of new knowledge—that the moon
 I see is not a moon, but the central fire of the whole
 earth—the molten mass of astronomical science.
 
@@ -3470,13 +3466,13 @@ gauze surrounds it confining the vapor breath.
 
 Over goes the boulder lightly as if hollow. Losing its
 rod gravitation it flies off toward the earth and
-disappears, ( dashing on its surface — an aerolite).
+disappears, (dashing on its surface—an aerolite).
 
 Ere they select another we enter their midst. Not
 seeing us within, they grasp the globe and roll it over.
 Seeing a debris marring its shining surface they pound
 it off. This removed from the fastening Savant swings it
-open, Pandora-box -like, as off they rush. Winding carefully
+open, Pandora-box-like, as off they rush. Winding carefully
 his breath tubes about him, Savant takes tools, solutions,
 etc., and stepping out carefully inspects the boulder’s
 surface. (Are they the dust on the rod?) Selecting one
@@ -3654,7 +3650,7 @@ A living being is by it. (Oh, only a babe chub swinging in the tube.)
 It is gone, and we too are going out.
 
 Globe protected from the dazzling light we look
-around and see a slow-going meteor—_the rest had flew
+around and see a slow-going meteor—the rest had flew
 so fast, we had not time to read them.
 
 This is so like our globe in which we ride. I cry, "Is _this_ a sky
@@ -3693,7 +3689,7 @@ you felt to be falling.
 “A branch of wistaria brushing your cheek, you
 grasped and began eating it. So I laid a banana on
 your hand, which you threw off as if it were a snake
-and bit you . Bernard (the dog) licked your hand, when
+and bit you. Bernard (the dog) licked your hand, when
 you fainted clear away. To restore you, we shook the
 hammock. You then made your feet go as in dancing,
 ending as in prayer.
