@@ -3,8 +3,9 @@
 ### Published (1899)
 
   This puzzling novel, self-published in 1899, has an idiosyncratic, even
-  ungrammatical writing style, but is deeply creative and strange. Almost
-  nothing is known about the author.
+  ungrammatical writing style, but is deeply creative and strange. Very
+  little was known about the author until a [recent
+  biography](https://medium.com/@liza/always-a-fan-of-the-marvelous-the-hidden-history-of-anna-adolph-8c0bc3888db4).
 
 Read [Arqtiq](https://lizadaly.github.io/utopia-novels/books/arqtiq/arqtiq.html) in a web browser.
 
