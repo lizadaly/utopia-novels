@@ -16,7 +16,7 @@ rights: Public Domain
 cover-image: cover.png
 cover-credit: |
   [Liza Daly](https://lizadaly.com)
-epub-file: mizora-a-prophesy.epub
+epub-file: mizora-a-prophecy.epub
 description: |
   The full title is: _Mizora: A Prophecy: A Mss. Found Among the Private Papers of Princess Vera Zarovitch: Being a True and Faithful Account of her Journey to the Interior of the Earth, with a Careful Description of the Country and its Inhabitants, their Customs, Manners, and Government._ It was first serialized in the Cincinnati Commercial newspaper in 1880.
   Little is known about the author.
