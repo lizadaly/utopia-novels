@@ -777,7 +777,7 @@ institutions, am I reminded of the resemblance
 between these American socialists and the
 ancient Spartans. The Spartan was also a
 part of the State—had all things on a grand
-Communal scale—had public gam es,public
+Communal scale—had public games, public
 theaters, baths, museums and festivals, being
 brought up by the state and his womenkind
 considered as a part of it.
