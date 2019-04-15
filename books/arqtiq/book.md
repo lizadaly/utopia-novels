@@ -146,16 +146,16 @@ this vicinity.
 The sun has chased frost and rose hues the higher
 snow peaks. Sierra Nevada (snowy) in its most interesting
 locality is around. Having come on the narrow-gauge
-railroad that connects tries two hugest and oldest of the
+railroad that connects the two hugest and oldest of the
 mining cities with the broad-gauge of the Central Pacific,
 we are rounding out on the latter over the famous Cape
 Horn. Spring is in her first freshness. We sniff its
 fragrance, as we shall continue to do, following its
 pioneer march until our arrival at our destination to
 enjoy our summer at the pole, where it is most
-able and the only tolerable season. From apparently
+enjoyable and the only tolerable season. From apparently
 bare ground are flying the cyclamen banners of the
-Johnny-jump-up. The blue sage (sun dial) gives a lake
+johnny-jump-up. The blue sage (sun dial) gives a lake
 of national colors, interspersed with the scarlet of the
 gorgeous fireweed, whose leaves and blossoms glow
 alike. Mae gleefully reaches to a dogwood lily (artist’s
@@ -192,7 +192,7 @@ Mining born and golden reared, with their Californian
 continual lawns, social halls and grand hotels for the
 floating population, this last much improved by the
 efforts of the Salvation Army, who have charmed the
-crowed to good behavior as they enjoy appreciatively
+crowd to good behavior as they enjoy appreciatively
 their sweet-voiced pleadings.
 
 I look out at the country, dotted with quartz-mill
@@ -245,7 +245,7 @@ and strong hands hold us. Near us is a carriage whose
 horses we had frightened. In it is an aged man of
 martial bearing, who recognizes my father.
 
-“Oh, it is you, is it, meandering at night like a
+“Oh, it is _you_, is it, meandering at night like a
 firebug. Turn around now and go home with me,” he
 said, cordially.
 
