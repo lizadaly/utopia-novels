@@ -1,4 +1,4 @@
-# truetrue
+# ArQtiQ
 ## By Anna Adolph
 ### Published (1899)
 
@@ -9,7 +9,7 @@
   uncovered the many links between the novel and her life story.
 
 
-Read [truetrue](https://lizadaly.github.io/utopia-novels/books/arqtiq/arqtiq.html) in a web browser.
+Read [ArQtiQ](https://lizadaly.github.io/utopia-novels/books/arqtiq/arqtiq.html) in a web browser.
 
 Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/arqtiq/arqtiq.epub).
 

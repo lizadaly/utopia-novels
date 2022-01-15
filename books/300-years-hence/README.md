@@ -1,4 +1,4 @@
-# true
+# Three Hundred Years Hence
 ## By Mary Griffith
 ### Published (1836)
 
@@ -11,7 +11,8 @@
   copies.
 
 
-Read [true](https://lizadaly.github.io/utopia-novels/books/300-years-hence/300-years-hence.html) in a web browser.
+Read [Three Hundred Years
+Hence](https://lizadaly.github.io/utopia-novels/books/300-years-hence/300-years-hence.html) in a web browser.
 
 Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/300-years-hence/300-years-hence.epub).
 

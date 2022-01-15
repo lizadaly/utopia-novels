@@ -1,4 +1,4 @@
-# true
+# Moving the Mountain
 ## By Charlotte Perkins Gilman
 ### Published (1911)
 
@@ -12,7 +12,8 @@
   and then in book form.
 
 
-Read [true](https://lizadaly.github.io/utopia-novels/books/moving-the-mountain/moving-the-mountain.html) in a web browser.
+Read [Moving the
+Mountain](https://lizadaly.github.io/utopia-novels/books/moving-the-mountain/moving-the-mountain.html) in a web browser.
 
 Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/moving-the-mountain/moving-the-mountain.epub).
 

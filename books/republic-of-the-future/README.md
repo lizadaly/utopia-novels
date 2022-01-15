@@ -1,4 +1,4 @@
-# truetrue
+# The Republic of the Future
 ## By Anna Bowman Dodd
 ### Published (1887)
 
@@ -9,7 +9,8 @@
   stories of the period.
 
 
-Read [truetrue](https://lizadaly.github.io/utopia-novels/books/republic-of-the-future/republic-of-the-future.html) in a web browser.
+Read [The Republic of the
+Future](https://lizadaly.github.io/utopia-novels/books/republic-of-the-future/republic-of-the-future.html) in a web browser.
 
 Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/republic-of-the-future/republic-of-the-future.epub).
 

@@ -1,4 +1,4 @@
-# truetrue
+# Mizora
 ## By Mary E. Bradley Lane
 ### Published (1889)
 
@@ -13,7 +13,7 @@
   enthusiastically eugenicist.
 
 
-Read [truetrue](https://lizadaly.github.io/utopia-novels/books/mizora-a-prophecy/mizora-a-prophecy.html) in a web browser.
+Read [Mizora](https://lizadaly.github.io/utopia-novels/books/mizora-a-prophecy/mizora-a-prophecy.html) in a web browser.
 
 Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/mizora-a-prophecy/mizora-a-prophecy.epub).
 
