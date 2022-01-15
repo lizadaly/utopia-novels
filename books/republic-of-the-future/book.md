@@ -3,6 +3,7 @@
 % 1887
 
 ---
+pagetitle: The Republic of the Future
 title:
 - type: main
   text: The Republic of the Future

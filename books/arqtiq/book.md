@@ -3,9 +3,10 @@
 % 1899
 
 ---
+pagetitle: ArQtiQ
 title:
 - type: main
-  text: Arqtiq
+  text: ArQtiQ
 - type: subtitle
   text: A Story of the Marvels at the North Pole
 identifier:
@@ -23,8 +24,8 @@ cover-source: |
 epub-file: arqtiq.epub
 description: |
   This puzzling novel, self-published in 1899, has an idiosyncratic, even ungrammatical
-  writing style, but is deeply creative and strange. Very little was
-  known about the author until a [recent biography](https://medium.com/@liza/always-a-fan-of-the-marvelous-the-hidden-history-of-anna-adolph-8c0bc3888db4).
+  writing style, but is deeply creative and strange. A [biography](https://lizadaly.com/pages/arqtiq/) of the
+  author is available.
 
 ---
 

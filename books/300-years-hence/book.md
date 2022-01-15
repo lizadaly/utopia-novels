@@ -3,6 +3,7 @@
 % 1836
 
 ---
+pagetitle: Three Hundred Years Hence
 title:
 - type: main
   text: Three Hundred Years Hence

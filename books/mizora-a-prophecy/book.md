@@ -3,6 +3,7 @@
 % 1889
 
 ---
+pagetitle: Mizora
 title:
 - type: main
   text: Mizora
