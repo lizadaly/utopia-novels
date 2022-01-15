@@ -13,3 +13,17 @@ The current collection:
 * [truetrue](books/republic-of-the-future/) by Anna Bowman Dodd (1887)
 * [truetrue](books/unveiling-a-parallel/) by Alice Ilgenfritz Jones and
 Ella Merchant (1893)
+
+## Installation
+
+Requires:
+
+* [pandoc](https://pandoc.org/) to generate the HTML and EPUB output
+* [epubcheck](https://github.com/w3c/epubcheck) (optional) to validate the EPUB output
+### MacOS
+Install [brew](https://brew.sh/) and run:
+
+```
+brew bundle
+```
+
