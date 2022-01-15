@@ -2,15 +2,18 @@
 ## By Charlotte Perkins Gilman
 ### Published (1911)
 
-  *Moving the Mountain* is a feminist utopian novel written by [Charlotte
-  Perkins Gilman](https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman),
-  a prominent American feminist, sociologist, novelist, writer of short
+  *Moving the Mountain* is a feminist utopian novel written by
+  [Charlotte Perkins
+  Gilman](https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman), a
+  prominent American feminist, sociologist, novelist, writer of short
   stories, poetry, and nonfiction, and a lecturer for social reform. It
   was published serially in Perkins Gilman's periodical [The
   Forerunner](http://www.charlotteperkinsgilman.com/2008/05/forerunner-11-forerunner-advertisement.html)
   and then in book form.
 
-Read [Moving the Mountain](https://lizadaly.github.io/utopia-novels/books/moving-the-mountain/moving-the-mountain.html) in a web browser.
+
+Read [Moving the
+Mountain](https://lizadaly.github.io/utopia-novels/books/moving-the-mountain/moving-the-mountain.html) in a web browser.
 
 Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/moving-the-mountain/moving-the-mountain.epub).
 

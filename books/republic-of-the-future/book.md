@@ -3,6 +3,7 @@
 % 1887
 
 ---
+pagetitle: The Republic of the Future
 title:
 - type: main
   text: The Republic of the Future
@@ -20,8 +21,7 @@ cover-source: |
   [Broadway and 42nd Street](https://www.metmuseum.org/art/collection/search/11029?sortBy=Relevance&amp;when=A.D.+1900-present&amp;what=Paintings&amp;ao=on&amp;ft=%22new+york%22&amp;offset=0&amp;rpp=100&amp;pos=29) by Childe Hassam (1902) courtesy The Metropolitan Museum of Art.
 epub-file: republic-of-the-future.epub
 description: |
-  _The Republic of the Future: or, Socialism a Reality_ is a novella by the American writer [Anna Bowman Dodd](https://en.wikipedia.org/wiki/Anna_Bowman_Dodd), first published in 1887. The book is a dystopia written in response to utopian literature, though published a year
-  before the appearance of [Edward Bellamy's](https://en.wikipedia.org/wiki/Edward_Bellamy) [Looking Backward](https://en.wikipedia.org/wiki/Looking_Backward) (1888).
+  _The Republic of the Future: or, Socialism a Reality_ is a novella by the American writer [Anna Bowman Dodd](https://en.wikipedia.org/wiki/Anna_Bowman_Dodd), first published in 1887. The book is a dystopia written in response to optimistic stories of the period.
 ---
 
 > Letters from a Swedish nobleman living in the 21st

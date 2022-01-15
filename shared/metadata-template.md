@@ -1,1 +1,1 @@
-* [$title$]($dir$/) by $author$ ($date$)
+* [$pagetitle$]($dir$/) by $author$ ($date$)

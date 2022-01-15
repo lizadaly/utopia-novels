@@ -3,10 +3,11 @@
 % 1889
 
 ---
+pagetitle: Mizora
 title:
 - type: main
   text: Mizora
-  type: subtitle
+- type: subtitle
   text: A Prophecy
 identifier:
 - scheme: URN

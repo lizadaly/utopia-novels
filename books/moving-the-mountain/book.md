@@ -3,6 +3,7 @@
 % 1911
 
 ---
+pagetitle: Moving the Mountain
 title:
 - type: main
   text: Moving the Mountain

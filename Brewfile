@@ -1,0 +1,2 @@
+brew "pandoc"
+brew "epubcheck"

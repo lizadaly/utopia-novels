@@ -31,7 +31,9 @@ figure {
   font-size: 13px;
   padding-top: 5px;
 }
-
+.cover figcaption p {
+  display: inline;
+}
 .description {
   margin-top: 2em;
 }
@@ -49,6 +51,11 @@ h1 {
   margin-top: 2em;
   text-align: center;
 
+}
+h1.subtitle {
+  font-size: 30px;
+  margin-bottom: 1em;
+  font-style: italic;
 }
 
 .rights:before {

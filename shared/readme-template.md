@@ -1,4 +1,4 @@
-# $title$
+# $pagetitle$
 ## By $author$
 ### Published ($date$)
 
@@ -6,7 +6,7 @@ $if(description)$
   $description$
 $endif$
 
-Read [$title$](https://lizadaly.github.io/utopia-novels/books/$book$/$book$.html) in a web browser.
+Read [$pagetitle$](https://lizadaly.github.io/utopia-novels/books/$book$/$book$.html) in a web browser.
 
 Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/$book$/$book$.epub).
 

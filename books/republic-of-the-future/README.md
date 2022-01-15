@@ -5,12 +5,12 @@
   *The Republic of the Future: or, Socialism a Reality* is a novella by
   the American writer [Anna Bowman
   Dodd](https://en.wikipedia.org/wiki/Anna_Bowman_Dodd), first published
-  in 1887. The book is a dystopia written in response to utopian
-  literature, though published a year before the appearance of [Edward
-  Bellamy's](https://en.wikipedia.org/wiki/Edward_Bellamy) [Looking
-  Backward](https://en.wikipedia.org/wiki/Looking_Backward) (1888).
+  in 1887. The book is a dystopia written in response to optimistic
+  stories of the period.
 
-Read [The Republic of the Future](https://lizadaly.github.io/utopia-novels/books/republic-of-the-future/republic-of-the-future.html) in a web browser.
+
+Read [The Republic of the
+Future](https://lizadaly.github.io/utopia-novels/books/republic-of-the-future/republic-of-the-future.html) in a web browser.
 
 Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/republic-of-the-future/republic-of-the-future.epub).
 

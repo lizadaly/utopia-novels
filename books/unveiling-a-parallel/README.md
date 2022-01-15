@@ -3,18 +3,24 @@
 ### Published (1893)
 
   Originally published anonymously by ["Two Women of the
-  West"](http://www.sf-encyclopedia.com/entry/two_women_of_the_west), this
-  satirical novel depicts two women-centered utopian societies: one
-  chaste, one with total economic and sexual freedom for women. Alice
-  Ilgenfritz Jones (1846-1906) published other novels in her lifetime,
-  including an intersectional novel on race called [Beatrice of Bayou
+  West"](http://www.sf-encyclopedia.com/entry/two_women_of_the_west),
+  this satirical novel depicts two women-centered utopian societies: one
+  with total economic and sexual freedom for women, the other chaste but
+  communally-supportive. Alice Ilgenfritz Jones (1846-1906) published
+  other novels in her lifetime, including an intersectional novel on
+  race called [Beatrice of Bayou
   Têche](https://uwpress.wisc.edu/books/0679.htm); her writing partner
-  Ella Merchant (1857-1916) published no other works. See the [critical
-  edition by Carol A.
+  Mary Ella Merchant (1857-1916) managed a large Cedar Rapids printing
+  company and travelled extensively. See this article on [Unveiling a
+  Parallel and Ella
+  Merchant](https://lizadaly.com/pages/utopian-novels/unveiling-a-parallel.html)
+  and the [critical edition by Carol A.
   Kolmerten](https://play.google.com/store/books/details?id=8GD9gU8Dlw4C&rdid=book-8GD9gU8Dlw4C&rdot=1&source=gbs_vpt_read)
-  for an excellent biography of the authors and analysis of the story.
+  for biographies of the authors and analysis of the story.
 
-Read [Unveiling a Parallel](https://lizadaly.github.io/utopia-novels/books/unveiling-a-parallel/unveiling-a-parallel.html) in a web browser.
+
+Read [Unveiling a
+Parallel](https://lizadaly.github.io/utopia-novels/books/unveiling-a-parallel/unveiling-a-parallel.html) in a web browser.
 
 Download an [EPUB ebook version](https://lizadaly.github.io/utopia-novels/books/unveiling-a-parallel/unveiling-a-parallel.epub).
 
