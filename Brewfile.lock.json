@@ -1,0 +1,71 @@
+{
+  "entries": {
+    "brew": {
+      "pandoc": {
+        "version": "2.17",
+        "bottle": {
+          "rebuild": 0,
+          "root_url": "https://ghcr.io/v2/homebrew/core",
+          "files": {
+            "arm64_monterey": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/pandoc/blobs/sha256:f313a05537979d36357213af2536ef31865f4863fd060184f79faf89a7e5c6ed",
+              "sha256": "f313a05537979d36357213af2536ef31865f4863fd060184f79faf89a7e5c6ed"
+            },
+            "arm64_big_sur": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/pandoc/blobs/sha256:d2def3a6d7826fad5b3ff8fdd86156742436d2a93fc1bb9415dfbb209e92489b",
+              "sha256": "d2def3a6d7826fad5b3ff8fdd86156742436d2a93fc1bb9415dfbb209e92489b"
+            },
+            "monterey": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/pandoc/blobs/sha256:14085a8a08fc30f922912b10880315f2aee4c694a397e2b67527a4e84306769b",
+              "sha256": "14085a8a08fc30f922912b10880315f2aee4c694a397e2b67527a4e84306769b"
+            },
+            "big_sur": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/pandoc/blobs/sha256:b61a50a95de65885df5f5c87fe622fbf9199065f9940f3e509aa4ca21a8ae874",
+              "sha256": "b61a50a95de65885df5f5c87fe622fbf9199065f9940f3e509aa4ca21a8ae874"
+            },
+            "catalina": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/pandoc/blobs/sha256:9a7bba31ebfeb1e9ff19738db93320fabb1120af8c6d39787bfa23cdc861c3a8",
+              "sha256": "9a7bba31ebfeb1e9ff19738db93320fabb1120af8c6d39787bfa23cdc861c3a8"
+            },
+            "x86_64_linux": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/pandoc/blobs/sha256:ff955b3124197d5db7ab098179b09d31e5b1d242e4835f545f582af87606c5fd",
+              "sha256": "ff955b3124197d5db7ab098179b09d31e5b1d242e4835f545f582af87606c5fd"
+            }
+          }
+        }
+      },
+      "epubcheck": {
+        "version": "4.2.6",
+        "bottle": {
+          "rebuild": 0,
+          "root_url": "https://ghcr.io/v2/homebrew/core",
+          "files": {
+            "all": {
+              "cellar": ":any_skip_relocation",
+              "url": "https://ghcr.io/v2/homebrew/core/epubcheck/blobs/sha256:94dc30bc00494c090c9b47d285fb2e1b904c5e22c59b721ad11a0e018a1d4291",
+              "sha256": "94dc30bc00494c090c9b47d285fb2e1b904c5e22c59b721ad11a0e018a1d4291"
+            }
+          }
+        }
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "big_sur": {
+        "HOMEBREW_VERSION": "3.3.10-58-g069ab08",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "971a6141d4788c246d28287cd2ca87cae3a452cd",
+        "CLT": "12.5.0.22.9",
+        "Xcode": "13.1",
+        "macOS": "11.6"
+      }
+    }
+  }
+}
