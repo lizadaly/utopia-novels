@@ -16,7 +16,16 @@ This collection was part of the research material for the interactive fiction st
 
 Contributions, corrections, and proofed new editions are very welcome; please issue a <a href="https://opensource.guide/how-to-contribute/">pull request</a> against one of the Markdown files.
 
-The current collection:
+## Installation
+
+Requires:
+
+* [pandoc](https://pandoc.org/) to generate the HTML and EPUB output
+* [epubcheck](https://github.com/w3c/epubcheck) (optional) to validate the EPUB output
+### MacOS
+Install [brew](https://brew.sh/) and run \`brew bundle\`.
+
+## The current collection:
 END
 
 for dir in books/*
@@ -42,3 +51,4 @@ for dir in books/*
     rm $tmp
 
   done
+

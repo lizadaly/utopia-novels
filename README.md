@@ -5,15 +5,6 @@ This collection was part of the research material for the interactive fiction st
 
 Contributions, corrections, and proofed new editions are very welcome; please issue a <a href="https://opensource.guide/how-to-contribute/">pull request</a> against one of the Markdown files.
 
-The current collection:
-* [true](books/300-years-hence/) by Mary Griffith (1836)
-* [truetrue](books/arqtiq/) by Anna Adolph (1899)
-* [truetrue](books/mizora-a-prophecy/) by Mary E. Bradley Lane (1889)
-* [true](books/moving-the-mountain/) by Charlotte Perkins Gilman (1911)
-* [truetrue](books/republic-of-the-future/) by Anna Bowman Dodd (1887)
-* [truetrue](books/unveiling-a-parallel/) by Alice Ilgenfritz Jones and
-Ella Merchant (1893)
-
 ## Installation
 
 Requires:
@@ -21,9 +12,16 @@ Requires:
 * [pandoc](https://pandoc.org/) to generate the HTML and EPUB output
 * [epubcheck](https://github.com/w3c/epubcheck) (optional) to validate the EPUB output
 ### MacOS
-Install [brew](https://brew.sh/) and run:
+Install [brew](https://brew.sh/) and run `brew bundle`.
 
-```
-brew bundle
-```
-
+## The current collection:
+* [Three Hundred Years Hence](books/300-years-hence/) by Mary
+Griffith (1836)
+* [ArQtiQ](books/arqtiq/) by Anna Adolph (1899)
+* [Mizora](books/mizora-a-prophecy/) by Mary E. Bradley Lane (1889)
+* [Moving the Mountain](books/moving-the-mountain/) by Charlotte Perkins
+Gilman (1911)
+* [The Republic of the Future](books/republic-of-the-future/) by Anna
+Bowman Dodd (1887)
+* [Unveiling a Parallel](books/unveiling-a-parallel/) by Alice
+Ilgenfritz Jones and Ella Merchant (1893)
