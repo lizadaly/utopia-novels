@@ -8,8 +8,7 @@ Contributions, corrections, and proofed new editions are very welcome; please is
 The current collection:
 * [true](books/300-years-hence/) by Mary Griffith (1836)
 * [truetrue](books/arqtiq/) by Anna Adolph (1899)
-* [Mizora: A Prophecy](books/mizora-a-prophecy/) by Mary E. Bradley
-Lane (1889)
+* [truetrue](books/mizora-a-prophecy/) by Mary E. Bradley Lane (1889)
 * [true](books/moving-the-mountain/) by Charlotte Perkins Gilman (1911)
 * [truetrue](books/republic-of-the-future/) by Anna Bowman Dodd (1887)
 * [truetrue](books/unveiling-a-parallel/) by Alice Ilgenfritz Jones and

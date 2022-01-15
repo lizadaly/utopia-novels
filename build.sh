@@ -27,14 +27,14 @@ for dir in books/*
 
     # Generate HTML version with appropriate paths
     $pandoc  -o $dir/$book.html $dir/book.md  --css ../../shared/web.css \
-      --template shared/html-template.html --resource-path $dir:shared
+      --template shared/html-template.html --resource-path $dir:shared &
 
     # Generate EPUB
     $pandoc -o $dir/$book.epub $dir/book.md --epub-embed-font=shared/fonts/* \
-      --css shared/epub.css --template shared/epub-template.html --epub-cover-image $dir/cover.png
+      --css shared/epub.css --template shared/epub-template.html --epub-cover-image $dir/cover.png &
 
     # Generate per-book README
-    $pandoc -o $dir/README.md -V book=$book $dir/book.md --template shared/readme-template.md
+    $pandoc -o $dir/README.md -V book=$book $dir/book.md --template shared/readme-template.md &
 
     # Build up the main project README with a dynamic book list
     $pandoc  -o $tmp $dir/book.md -V book=$book -V dir=$dir --template shared/metadata-template.md
