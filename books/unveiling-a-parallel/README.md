@@ -12,7 +12,8 @@
   Têche](https://uwpress.wisc.edu/books/0679.htm); her writing partner
   Mary Ella Merchant (1857-1916) managed a large Cedar Rapids printing
   company and travelled extensively. See this article on [Unveiling a
-  Paralell](https://lizadaly.com/pages/utopian-novels/unveiling-a-parallel.html)
+  Parallel and Ella
+  Merchant](https://lizadaly.com/pages/utopian-novels/unveiling-a-parallel.html)
   and the [critical edition by Carol A.
   Kolmerten](https://play.google.com/store/books/details?id=8GD9gU8Dlw4C&rdid=book-8GD9gU8Dlw4C&rdot=1&source=gbs_vpt_read)
   for biographies of the authors and analysis of the story.

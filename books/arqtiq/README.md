@@ -3,9 +3,10 @@
 ### Published (1899)
 
   This puzzling novel, self-published in 1899, has an idiosyncratic,
-  even ungrammatical writing style, but is deeply creative and strange.
-  A [biography](https://lizadaly.com/pages/arqtiq/) of the author is
-  available.
+  even ungrammatical writing style, but is deeply lyrical. A
+  [biography](https://lizadaly.com/pages/arqtiq/) of the author (who
+  stylized the novel as 'ArQtiQ' in her personal correspondance) has
+  uncovered the many links between the novel and her life story.
 
 
 Read [truetrue](https://lizadaly.github.io/utopia-novels/books/arqtiq/arqtiq.html) in a web browser.

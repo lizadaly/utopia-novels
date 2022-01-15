@@ -24,12 +24,13 @@ cover-source: |
 epub-file: arqtiq.epub
 description: |
   This puzzling novel, self-published in 1899, has an idiosyncratic, even ungrammatical
-  writing style, but is deeply creative and strange. A [biography](https://lizadaly.com/pages/arqtiq/) of the
-  author is available.
+  writing style, but is deeply lyrical. A [biography](https://lizadaly.com/pages/arqtiq/) of the
+  author (who stylized the novel as 'ArQtiQ' in her personal correspondance)
+  has uncovered the many links between the novel and her life story.
 
 ---
 
-# Arqtiq
+# ArQtiQ
 ### A Story of the Marvels at the North Pole
 
 
